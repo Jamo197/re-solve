@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-(dy=i_r81k20478otm!9+)q@i8px*t279qz2m@2zzp(o1*tjc&
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://re-solve-sustainable-materials.herokuapp.com/']
+ALLOWED_HOSTS = []
 
 
 # Application definition
@@ -128,8 +128,9 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/3.2/howto/static-files/
 
+STATIC_ROOT = Path.joinpath(BASE_DIR, 'staticfiles')
 STATIC_URL = '/static/'
-# STATIC_ROOT = Path.joinpath(BASE_DIR, 'staticfiles')
+
 STATICFILES_DIRS = [
     BASE_DIR / "static"
 ]
