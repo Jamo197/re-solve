@@ -1,0 +1,146 @@
+[
+    {
+        "properties": [
+            {
+                "property_name": "Hitzbeständigkeit",
+                "value": 4,
+                "unit": "sth"
+            },
+            {
+                "property_name": "Zugfestigkeit",
+                "value": 1,
+                "unit": "sth"
+            },
+            {
+                "property_name": "Bruchfestigkeit",
+                "value": 5,
+                "unit": "sth"
+            }
+        ],
+        "sustainability_properties": [
+            {
+                "property_name": "CO2 Verbrauch",
+                "value": 2.0,
+                "unit": "LEEEEEEEEL",
+                "eco_score": "2.000"
+            },
+            {
+                "property_name": "Wasserverbrauch",
+                "value": 2.0,
+                "unit": "sth too",
+                "eco_score": "2.857"
+            },
+            {
+                "property_name": "Energieverbrauch",
+                "value": 1.0,
+                "unit": "sth to",
+                "eco_score": "1.000"
+            },
+            {
+                "property_name": "Recyclingfähigkeit",
+                "value": 50.0,
+                "unit": "sth to",
+                "eco_score": "2.500"
+            }
+        ],
+        "name": "Edelstahl !!!",
+        "description": "Some edler Stahl",
+        "material_class": "Metall"
+    },
+    {
+        "properties": [
+            {
+                "property_name": "Hitzbeständigkeit",
+                "value": 3,
+                "unit": "sth"
+            },
+            {
+                "property_name": "Zugfestigkeit",
+                "value": 1,
+                "unit": "sth"
+            },
+            {
+                "property_name": "Bruchfestigkeit",
+                "value": 5,
+                "unit": "sth"
+            }
+        ],
+        "sustainability_properties": [
+            {
+                "property_name": "CO2 Verbrauch",
+                "value": 5.0,
+                "unit": "LEEEEEEEEL",
+                "eco_score": "5.000"
+            },
+            {
+                "property_name": "Wasserverbrauch",
+                "value": 3.5,
+                "unit": "sth too",
+                "eco_score": "5.000"
+            },
+            {
+                "property_name": "Energieverbrauch",
+                "value": 3.0,
+                "unit": "sth to",
+                "eco_score": "5.000"
+            },
+            {
+                "property_name": "Recyclingfähigkeit",
+                "value": 100.0,
+                "unit": "sth to",
+                "eco_score": "0.000"
+            }
+        ],
+        "name": "NEU Edelstahl NEU",
+        "description": "Schlechter Edelstahl",
+        "material_class": "Metall"
+    },
+    {
+        "properties": [
+            {
+                "property_name": "Hitzbeständigkeit",
+                "value": 3,
+                "unit": "sth"
+            },
+            {
+                "property_name": "Zugfestigkeit",
+                "value": 1,
+                "unit": "sth"
+            },
+            {
+                "property_name": "Bruchfestigkeit",
+                "value": 5,
+                "unit": "sth"
+            }
+        ],
+        "sustainability_properties": [
+            {
+                "property_name": "CO2 Verbrauch",
+                "value": 5.0,
+                "unit": "LEEEEEEEEL",
+                "eco_score": "5.000"
+            },
+            {
+                "property_name": "Wasserverbrauch",
+                "value": 1.0,
+                "unit": "sth too",
+                "eco_score": "1.000"
+            },
+            {
+                "property_name": "Energieverbrauch",
+                "value": 5.0,
+                "unit": "sth to",
+                "eco_score": "5.000"
+            },
+            {
+                "property_name": "Recyclingfähigkeit",
+                "value": 100.0,
+                "unit": "sth to",
+                "eco_score": "0.000"
+            }
+        ],
+        "name": "Holz",
+        "description": "Holz",
+        "material_class": "Holz"
+    }
+]

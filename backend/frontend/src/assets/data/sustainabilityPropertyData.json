@@ -1,0 +1,18 @@
+[
+    {
+        "type": "CO2 Verbrauch",
+        "unit": "t/t"
+    },
+    {
+        "type": "Wasserverbrauch",
+        "unit": "l/t"
+    },
+    {
+        "type": "Energieverbrauch",
+        "unit": "kWh/t"
+    },
+    {
+        "type": "Recyclingfähigkeit",
+        "unit": "%"
+    }
+]

@@ -1,0 +1,39 @@
+{
+    "properties": [
+        {
+            "property_name": "Hitzbeständigkeit", // optionen: (Hitzbeständigkeit, Zugfestigkeit, Bruchfestigkeit, Dichte, Feuchtigkeitsresistenz, Oberflächenbeschaffenheit)
+            "value": 3, // von 1 - 5
+            "unit": "sth" // Einfaches Textfeld
+        },
+        {
+            "property_name": "Zugfestigkeit",
+            "value": 1,
+            "unit": "sth"
+        }
+    ],
+    "sustainability_properties": [
+        {
+            "property_name": "CO2 Verbrauch", // optionen: (CO2 Verbrauch, Wasserverbrauch, Energieverbrauch, Recyclingfähigkeit)
+            "value": 5.0, // von 1 - 5
+            "unit": "sth"// Einfaches Textfeld
+        },
+        {
+            "property_name": "Wasserverbrauch",
+            "value": 5.0,
+            "unit": "sth too"
+        },
+        {
+            "property_name": "Energieverbrauch",
+            "value": 5.0,
+            "unit": "sth to"
+        },
+        {
+            "property_name": "Recyclingfähigkeit",
+            "value": 100.0, // Werte von 0 - 100
+            "unit": "sth to"
+        }
+    ],
+    "name": "Holz", // TExtfeld
+    "description": "Edelstahl", // Textfeld
+    "material_class": "Metall" // optionen: (Plastik, Holz, Metall, Textil)
+}

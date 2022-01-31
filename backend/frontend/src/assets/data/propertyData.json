@@ -1,0 +1,32 @@
+[
+    {
+        "type": "Dichte",
+        "value": null,
+        "unit": "g/cm^3",
+        "nameForFilter": "density"
+    },
+    {
+        "type": "Zugfestigkeit",
+        "value": null,
+        "unit": "N/mm^2",
+        "nameForFilter": "tensile_strength"
+    },
+    {
+        "type": "Dehngrenze",
+        "value": null,
+        "unit": "N/mm^2",
+        "nameForFilter": "breaking_strength"
+    },
+    {
+        "type": "Bruchdehnung",
+        "value": null,
+        "unit": "%",
+        "nameForFilter": "fracture_strain"
+    },
+    {
+        "type": "Härte",
+        "value": null,
+        "unit": "HB",
+        "nameForFilter": "hardness"
+    }
+]
