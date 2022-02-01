@@ -1,0 +1,5648 @@
+[
+    {
+        "model": "admin.logentry",
+        "pk": 1,
+        "fields": {
+            "action_time": "2022-01-14T18:26:10.651Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "1",
+            "object_repr": "Edelstahl Stuff",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 2,
+        "fields": {
+            "action_time": "2022-01-15T13:04:14.640Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "2",
+            "object_repr": "Holz Stuff",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 3,
+        "fields": {
+            "action_time": "2022-01-15T14:45:06.995Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "3",
+            "object_repr": "Metallgitter",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 4,
+        "fields": {
+            "action_time": "2022-01-15T14:46:03.763Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "4",
+            "object_repr": "Next Artiklel",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 5,
+        "fields": {
+            "action_time": "2022-01-15T14:46:26.914Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "5",
+            "object_repr": "Artikel nummer 5",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 6,
+        "fields": {
+            "action_time": "2022-01-16T14:17:35.676Z",
+            "user": 1,
+            "content_type": 8,
+            "object_id": "3",
+            "object_repr": "Holz, Holz",
+            "action_flag": 3,
+            "change_message": ""
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 7,
+        "fields": {
+            "action_time": "2022-01-16T14:17:35.683Z",
+            "user": 1,
+            "content_type": 8,
+            "object_id": "2",
+            "object_repr": "NEU Edelstahl NEU, Schlechter Edelstahl",
+            "action_flag": 3,
+            "change_message": ""
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 8,
+        "fields": {
+            "action_time": "2022-01-16T14:17:35.690Z",
+            "user": 1,
+            "content_type": 8,
+            "object_id": "1",
+            "object_repr": "Edelstahl, Some edler Stahl",
+            "action_flag": 3,
+            "change_message": ""
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 9,
+        "fields": {
+            "action_time": "2022-01-16T14:26:41.477Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "6",
+            "object_repr": "Holzplatte aus Fichte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 10,
+        "fields": {
+            "action_time": "2022-01-16T14:27:08.715Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "7",
+            "object_repr": "Holzplatte aus Eiche",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 11,
+        "fields": {
+            "action_time": "2022-01-16T14:27:58.892Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "8",
+            "object_repr": "Platte aus PLA",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 12,
+        "fields": {
+            "action_time": "2022-01-16T14:28:28.552Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "9",
+            "object_repr": "Platte aus PET",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 13,
+        "fields": {
+            "action_time": "2022-01-16T14:28:56.460Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "10",
+            "object_repr": "Platte aus PVC",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 14,
+        "fields": {
+            "action_time": "2022-01-16T14:29:21.724Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "11",
+            "object_repr": "Kupferplatte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 15,
+        "fields": {
+            "action_time": "2022-01-16T14:29:41.613Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "12",
+            "object_repr": "Titanplatte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 16,
+        "fields": {
+            "action_time": "2022-01-16T14:30:13.251Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "13",
+            "object_repr": "Stahlplatte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 17,
+        "fields": {
+            "action_time": "2022-01-16T14:30:38.609Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "14",
+            "object_repr": "Platte aus Edelstahl",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 18,
+        "fields": {
+            "action_time": "2022-01-16T14:31:18.957Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "15",
+            "object_repr": "Dummy Artikel Dummy Material",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 19,
+        "fields": {
+            "action_time": "2022-01-29T12:07:54.487Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "16",
+            "object_repr": "Edelstahl Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 20,
+        "fields": {
+            "action_time": "2022-01-29T12:08:27.283Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "17",
+            "object_repr": "Edelstahl Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 21,
+        "fields": {
+            "action_time": "2022-01-29T12:08:45.738Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "18",
+            "object_repr": "Edelstahl Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 22,
+        "fields": {
+            "action_time": "2022-01-29T12:09:08.010Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "19",
+            "object_repr": "Edelstahl Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 23,
+        "fields": {
+            "action_time": "2022-01-29T12:09:36.941Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "20",
+            "object_repr": "Edelstahl Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 24,
+        "fields": {
+            "action_time": "2022-01-29T12:10:00.274Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "21",
+            "object_repr": "Edelstahl Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 25,
+        "fields": {
+            "action_time": "2022-01-29T12:10:18.631Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "22",
+            "object_repr": "Edelstahl Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 26,
+        "fields": {
+            "action_time": "2022-01-29T12:10:35.633Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "23",
+            "object_repr": "Edelstahl Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 27,
+        "fields": {
+            "action_time": "2022-01-29T12:10:59.535Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "24",
+            "object_repr": "Edelstahl Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 28,
+        "fields": {
+            "action_time": "2022-01-29T12:11:26.136Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "25",
+            "object_repr": "Edelstahl Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 29,
+        "fields": {
+            "action_time": "2022-01-29T12:11:59.335Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "26",
+            "object_repr": "Stahl Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 30,
+        "fields": {
+            "action_time": "2022-01-29T12:12:56.181Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "27",
+            "object_repr": "Stahl Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 31,
+        "fields": {
+            "action_time": "2022-01-29T12:13:11.093Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "28",
+            "object_repr": "Stahl Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 32,
+        "fields": {
+            "action_time": "2022-01-29T12:13:27.095Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "29",
+            "object_repr": "Stahl Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 33,
+        "fields": {
+            "action_time": "2022-01-29T12:13:43.934Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "30",
+            "object_repr": "Stahl Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 34,
+        "fields": {
+            "action_time": "2022-01-29T12:13:57.583Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "31",
+            "object_repr": "Stahl Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 35,
+        "fields": {
+            "action_time": "2022-01-29T12:14:14.808Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "32",
+            "object_repr": "Stahl Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 36,
+        "fields": {
+            "action_time": "2022-01-29T12:14:29.971Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "33",
+            "object_repr": "Stahl Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 37,
+        "fields": {
+            "action_time": "2022-01-29T12:14:47.945Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "34",
+            "object_repr": "Stahl Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 38,
+        "fields": {
+            "action_time": "2022-01-29T12:15:07.908Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "35",
+            "object_repr": "Stahl Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 39,
+        "fields": {
+            "action_time": "2022-01-29T12:15:28.780Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "36",
+            "object_repr": "Aluminium Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 40,
+        "fields": {
+            "action_time": "2022-01-29T12:15:54.038Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "37",
+            "object_repr": "Aluminium Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 41,
+        "fields": {
+            "action_time": "2022-01-29T12:16:09.717Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "38",
+            "object_repr": "Aluminium Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 42,
+        "fields": {
+            "action_time": "2022-01-29T12:16:25.225Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "39",
+            "object_repr": "Aluminium Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 43,
+        "fields": {
+            "action_time": "2022-01-29T12:16:40.044Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "40",
+            "object_repr": "Aluminium Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 44,
+        "fields": {
+            "action_time": "2022-01-29T12:16:54.168Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "41",
+            "object_repr": "Aluminium Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 45,
+        "fields": {
+            "action_time": "2022-01-29T12:17:10.726Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "42",
+            "object_repr": "Aluminium Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 46,
+        "fields": {
+            "action_time": "2022-01-29T12:17:27.669Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "43",
+            "object_repr": "Aluminium Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 47,
+        "fields": {
+            "action_time": "2022-01-29T12:17:39.098Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "44",
+            "object_repr": "Aluminium Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 48,
+        "fields": {
+            "action_time": "2022-01-29T12:17:51.257Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "44",
+            "object_repr": "Aluminium Platte",
+            "action_flag": 2,
+            "change_message": "[{\"changed\": {\"fields\": [\"Price\"]}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 49,
+        "fields": {
+            "action_time": "2022-01-29T12:18:10.131Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "45",
+            "object_repr": "Aluminium Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 50,
+        "fields": {
+            "action_time": "2022-01-29T12:18:43.324Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "46",
+            "object_repr": "Titan Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 51,
+        "fields": {
+            "action_time": "2022-01-29T12:18:59.268Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "47",
+            "object_repr": "Titan Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 52,
+        "fields": {
+            "action_time": "2022-01-29T12:19:11.488Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "48",
+            "object_repr": "Titan Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 53,
+        "fields": {
+            "action_time": "2022-01-29T12:19:24.427Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "49",
+            "object_repr": "Titan Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 54,
+        "fields": {
+            "action_time": "2022-01-29T12:19:36.124Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "50",
+            "object_repr": "Titan Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 55,
+        "fields": {
+            "action_time": "2022-01-29T12:19:53.140Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "51",
+            "object_repr": "Titan Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 56,
+        "fields": {
+            "action_time": "2022-01-29T12:20:08.171Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "52",
+            "object_repr": "Titan Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 57,
+        "fields": {
+            "action_time": "2022-01-29T12:20:21.942Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "53",
+            "object_repr": "Titan Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 58,
+        "fields": {
+            "action_time": "2022-01-29T12:20:37.642Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "54",
+            "object_repr": "Titan Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 59,
+        "fields": {
+            "action_time": "2022-01-29T12:20:54.288Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "55",
+            "object_repr": "Titan Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 60,
+        "fields": {
+            "action_time": "2022-01-29T12:21:04.656Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "55",
+            "object_repr": "Titan Platte",
+            "action_flag": 2,
+            "change_message": "[{\"changed\": {\"fields\": [\"Price\"]}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 61,
+        "fields": {
+            "action_time": "2022-01-29T12:21:28.782Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "56",
+            "object_repr": "Kupfer Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 62,
+        "fields": {
+            "action_time": "2022-01-29T12:21:42.752Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "57",
+            "object_repr": "Kupfer Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 63,
+        "fields": {
+            "action_time": "2022-01-29T12:21:58.251Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "58",
+            "object_repr": "Kupfer Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 64,
+        "fields": {
+            "action_time": "2022-01-29T12:22:11.927Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "59",
+            "object_repr": "Kupfer Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 65,
+        "fields": {
+            "action_time": "2022-01-29T12:22:27.136Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "60",
+            "object_repr": "Kupfer Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 66,
+        "fields": {
+            "action_time": "2022-01-29T12:22:41.794Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "61",
+            "object_repr": "Kupfer Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 67,
+        "fields": {
+            "action_time": "2022-01-29T12:22:56.337Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "62",
+            "object_repr": "Kupfer Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 68,
+        "fields": {
+            "action_time": "2022-01-29T12:23:10.555Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "63",
+            "object_repr": "Kupfer Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 69,
+        "fields": {
+            "action_time": "2022-01-29T12:23:23.823Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "64",
+            "object_repr": "Kupfer Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 70,
+        "fields": {
+            "action_time": "2022-01-29T12:23:45.028Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "65",
+            "object_repr": "Kupfer Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 71,
+        "fields": {
+            "action_time": "2022-01-29T12:24:06.237Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "66",
+            "object_repr": "PVC Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 72,
+        "fields": {
+            "action_time": "2022-01-29T12:24:22.647Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "67",
+            "object_repr": "PVC Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 73,
+        "fields": {
+            "action_time": "2022-01-29T12:24:41.735Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "68",
+            "object_repr": "PVC Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 74,
+        "fields": {
+            "action_time": "2022-01-29T12:24:59.521Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "69",
+            "object_repr": "PVC Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 75,
+        "fields": {
+            "action_time": "2022-01-29T12:25:16.120Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "70",
+            "object_repr": "PVC Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 76,
+        "fields": {
+            "action_time": "2022-01-29T12:25:32.149Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "71",
+            "object_repr": "PVC Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 77,
+        "fields": {
+            "action_time": "2022-01-29T12:25:46.269Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "72",
+            "object_repr": "PVC Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 78,
+        "fields": {
+            "action_time": "2022-01-29T12:26:05.380Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "73",
+            "object_repr": "PVC Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 79,
+        "fields": {
+            "action_time": "2022-01-29T12:26:22.603Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "74",
+            "object_repr": "PVC Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 80,
+        "fields": {
+            "action_time": "2022-01-29T12:26:42.670Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "75",
+            "object_repr": "PVC Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 81,
+        "fields": {
+            "action_time": "2022-01-29T12:27:00.778Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "76",
+            "object_repr": "PET Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 82,
+        "fields": {
+            "action_time": "2022-01-29T12:27:12.910Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "77",
+            "object_repr": "PET Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 83,
+        "fields": {
+            "action_time": "2022-01-29T12:27:26.745Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "78",
+            "object_repr": "PET Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 84,
+        "fields": {
+            "action_time": "2022-01-29T12:27:46.163Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "79",
+            "object_repr": "PET Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 85,
+        "fields": {
+            "action_time": "2022-01-29T12:28:01.707Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "80",
+            "object_repr": "PET Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 86,
+        "fields": {
+            "action_time": "2022-01-29T12:28:08.884Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "80",
+            "object_repr": "PET Platte",
+            "action_flag": 2,
+            "change_message": "[]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 87,
+        "fields": {
+            "action_time": "2022-01-29T12:28:25.133Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "81",
+            "object_repr": "PET Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 88,
+        "fields": {
+            "action_time": "2022-01-29T12:28:39.635Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "82",
+            "object_repr": "PET Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 89,
+        "fields": {
+            "action_time": "2022-01-29T12:28:52.517Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "83",
+            "object_repr": "PET Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 90,
+        "fields": {
+            "action_time": "2022-01-29T12:29:04.188Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "84",
+            "object_repr": "PET Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 91,
+        "fields": {
+            "action_time": "2022-01-29T12:29:17.548Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "85",
+            "object_repr": "PET Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 92,
+        "fields": {
+            "action_time": "2022-01-29T12:29:33.279Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "86",
+            "object_repr": "PLA Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 93,
+        "fields": {
+            "action_time": "2022-01-29T12:29:39.866Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "86",
+            "object_repr": "PLA Platte",
+            "action_flag": 2,
+            "change_message": "[{\"changed\": {\"fields\": [\"Price\"]}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 94,
+        "fields": {
+            "action_time": "2022-01-29T12:29:54.941Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "87",
+            "object_repr": "PLA Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 95,
+        "fields": {
+            "action_time": "2022-01-29T12:30:27.177Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "88",
+            "object_repr": "PLA Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 96,
+        "fields": {
+            "action_time": "2022-01-29T12:30:44.989Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "89",
+            "object_repr": "PLA Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 97,
+        "fields": {
+            "action_time": "2022-01-29T12:31:00.489Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "90",
+            "object_repr": "PLA Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 98,
+        "fields": {
+            "action_time": "2022-01-29T12:31:20.427Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "91",
+            "object_repr": "PLA Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 99,
+        "fields": {
+            "action_time": "2022-01-29T12:31:34.862Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "92",
+            "object_repr": "PLA Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 100,
+        "fields": {
+            "action_time": "2022-01-29T12:31:50.155Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "93",
+            "object_repr": "PLA Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 101,
+        "fields": {
+            "action_time": "2022-01-29T12:32:06.906Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "94",
+            "object_repr": "PLA Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 102,
+        "fields": {
+            "action_time": "2022-01-29T12:32:25.474Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "95",
+            "object_repr": "PLA Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 103,
+        "fields": {
+            "action_time": "2022-01-29T12:36:45.033Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "96",
+            "object_repr": "Eichenholz Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 104,
+        "fields": {
+            "action_time": "2022-01-29T12:36:58.818Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "97",
+            "object_repr": "Eichenholz Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 105,
+        "fields": {
+            "action_time": "2022-01-29T12:37:13.340Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "98",
+            "object_repr": "Eichenholz Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 106,
+        "fields": {
+            "action_time": "2022-01-29T12:37:27.991Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "99",
+            "object_repr": "Eichenholz Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 107,
+        "fields": {
+            "action_time": "2022-01-29T12:37:45.028Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "100",
+            "object_repr": "Eichenholz Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 108,
+        "fields": {
+            "action_time": "2022-01-29T12:38:00.756Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "101",
+            "object_repr": "Eichenholz Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 109,
+        "fields": {
+            "action_time": "2022-01-29T12:38:15.128Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "102",
+            "object_repr": "Eichenholz Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 110,
+        "fields": {
+            "action_time": "2022-01-29T12:38:28.955Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "103",
+            "object_repr": "Eichenholz Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 111,
+        "fields": {
+            "action_time": "2022-01-29T12:38:50.910Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "104",
+            "object_repr": "Eichenholz Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 112,
+        "fields": {
+            "action_time": "2022-01-29T12:39:07.906Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "105",
+            "object_repr": "Eichenholz Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 113,
+        "fields": {
+            "action_time": "2022-01-29T12:39:36.185Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "106",
+            "object_repr": "Fichtenholz Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 114,
+        "fields": {
+            "action_time": "2022-01-29T12:39:50.709Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "107",
+            "object_repr": "Fichtenholz Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 115,
+        "fields": {
+            "action_time": "2022-01-29T12:40:03.132Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "108",
+            "object_repr": "Fichtenholz Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 116,
+        "fields": {
+            "action_time": "2022-01-29T12:40:17.142Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "109",
+            "object_repr": "Fichtenholz Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 117,
+        "fields": {
+            "action_time": "2022-01-29T12:40:34.753Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "110",
+            "object_repr": "Fichtenholz Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 118,
+        "fields": {
+            "action_time": "2022-01-29T12:40:47.909Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "111",
+            "object_repr": "Fichtenholz Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 119,
+        "fields": {
+            "action_time": "2022-01-29T12:41:02.133Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "112",
+            "object_repr": "Fichtenholz Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 120,
+        "fields": {
+            "action_time": "2022-01-29T12:41:16.952Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "113",
+            "object_repr": "Fichtenholz Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 121,
+        "fields": {
+            "action_time": "2022-01-29T12:41:28.421Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "114",
+            "object_repr": "Fichtenholz Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 122,
+        "fields": {
+            "action_time": "2022-01-29T12:41:43.307Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "115",
+            "object_repr": "Fichtenholz Platte",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 1,
+        "fields": {
+            "name": "Can add log entry",
+            "content_type": 1,
+            "codename": "add_logentry"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 2,
+        "fields": {
+            "name": "Can change log entry",
+            "content_type": 1,
+            "codename": "change_logentry"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 3,
+        "fields": {
+            "name": "Can delete log entry",
+            "content_type": 1,
+            "codename": "delete_logentry"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 4,
+        "fields": {
+            "name": "Can view log entry",
+            "content_type": 1,
+            "codename": "view_logentry"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 5,
+        "fields": {
+            "name": "Can add permission",
+            "content_type": 2,
+            "codename": "add_permission"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 6,
+        "fields": {
+            "name": "Can change permission",
+            "content_type": 2,
+            "codename": "change_permission"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 7,
+        "fields": {
+            "name": "Can delete permission",
+            "content_type": 2,
+            "codename": "delete_permission"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 8,
+        "fields": {
+            "name": "Can view permission",
+            "content_type": 2,
+            "codename": "view_permission"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 9,
+        "fields": {
+            "name": "Can add group",
+            "content_type": 3,
+            "codename": "add_group"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 10,
+        "fields": {
+            "name": "Can change group",
+            "content_type": 3,
+            "codename": "change_group"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 11,
+        "fields": {
+            "name": "Can delete group",
+            "content_type": 3,
+            "codename": "delete_group"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 12,
+        "fields": {
+            "name": "Can view group",
+            "content_type": 3,
+            "codename": "view_group"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 13,
+        "fields": {
+            "name": "Can add content type",
+            "content_type": 4,
+            "codename": "add_contenttype"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 14,
+        "fields": {
+            "name": "Can change content type",
+            "content_type": 4,
+            "codename": "change_contenttype"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 15,
+        "fields": {
+            "name": "Can delete content type",
+            "content_type": 4,
+            "codename": "delete_contenttype"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 16,
+        "fields": {
+            "name": "Can view content type",
+            "content_type": 4,
+            "codename": "view_contenttype"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 17,
+        "fields": {
+            "name": "Can add session",
+            "content_type": 5,
+            "codename": "add_session"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 18,
+        "fields": {
+            "name": "Can change session",
+            "content_type": 5,
+            "codename": "change_session"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 19,
+        "fields": {
+            "name": "Can delete session",
+            "content_type": 5,
+            "codename": "delete_session"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 20,
+        "fields": {
+            "name": "Can view session",
+            "content_type": 5,
+            "codename": "view_session"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 21,
+        "fields": {
+            "name": "Can add Token",
+            "content_type": 6,
+            "codename": "add_token"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 22,
+        "fields": {
+            "name": "Can change Token",
+            "content_type": 6,
+            "codename": "change_token"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 23,
+        "fields": {
+            "name": "Can delete Token",
+            "content_type": 6,
+            "codename": "delete_token"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 24,
+        "fields": {
+            "name": "Can view Token",
+            "content_type": 6,
+            "codename": "view_token"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 25,
+        "fields": {
+            "name": "Can add token",
+            "content_type": 7,
+            "codename": "add_tokenproxy"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 26,
+        "fields": {
+            "name": "Can change token",
+            "content_type": 7,
+            "codename": "change_tokenproxy"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 27,
+        "fields": {
+            "name": "Can delete token",
+            "content_type": 7,
+            "codename": "delete_tokenproxy"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 28,
+        "fields": {
+            "name": "Can view token",
+            "content_type": 7,
+            "codename": "view_tokenproxy"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 29,
+        "fields": {
+            "name": "Can add material",
+            "content_type": 8,
+            "codename": "add_material"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 30,
+        "fields": {
+            "name": "Can change material",
+            "content_type": 8,
+            "codename": "change_material"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 31,
+        "fields": {
+            "name": "Can delete material",
+            "content_type": 8,
+            "codename": "delete_material"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 32,
+        "fields": {
+            "name": "Can view material",
+            "content_type": 8,
+            "codename": "view_material"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 33,
+        "fields": {
+            "name": "Can add property",
+            "content_type": 9,
+            "codename": "add_property"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 34,
+        "fields": {
+            "name": "Can change property",
+            "content_type": 9,
+            "codename": "change_property"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 35,
+        "fields": {
+            "name": "Can delete property",
+            "content_type": 9,
+            "codename": "delete_property"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 36,
+        "fields": {
+            "name": "Can view property",
+            "content_type": 9,
+            "codename": "view_property"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 37,
+        "fields": {
+            "name": "Can add sustainability property",
+            "content_type": 10,
+            "codename": "add_sustainabilityproperty"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 38,
+        "fields": {
+            "name": "Can change sustainability property",
+            "content_type": 10,
+            "codename": "change_sustainabilityproperty"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 39,
+        "fields": {
+            "name": "Can delete sustainability property",
+            "content_type": 10,
+            "codename": "delete_sustainabilityproperty"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 40,
+        "fields": {
+            "name": "Can view sustainability property",
+            "content_type": 10,
+            "codename": "view_sustainabilityproperty"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 41,
+        "fields": {
+            "name": "Can add article",
+            "content_type": 11,
+            "codename": "add_article"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 42,
+        "fields": {
+            "name": "Can change article",
+            "content_type": 11,
+            "codename": "change_article"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 43,
+        "fields": {
+            "name": "Can delete article",
+            "content_type": 11,
+            "codename": "delete_article"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 44,
+        "fields": {
+            "name": "Can view article",
+            "content_type": 11,
+            "codename": "view_article"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 45,
+        "fields": {
+            "name": "Can add order",
+            "content_type": 12,
+            "codename": "add_order"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 46,
+        "fields": {
+            "name": "Can change order",
+            "content_type": 12,
+            "codename": "change_order"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 47,
+        "fields": {
+            "name": "Can delete order",
+            "content_type": 12,
+            "codename": "delete_order"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 48,
+        "fields": {
+            "name": "Can view order",
+            "content_type": 12,
+            "codename": "view_order"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 49,
+        "fields": {
+            "name": "Can add request",
+            "content_type": 13,
+            "codename": "add_request"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 50,
+        "fields": {
+            "name": "Can change request",
+            "content_type": 13,
+            "codename": "change_request"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 51,
+        "fields": {
+            "name": "Can delete request",
+            "content_type": 13,
+            "codename": "delete_request"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 52,
+        "fields": {
+            "name": "Can view request",
+            "content_type": 13,
+            "codename": "view_request"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 53,
+        "fields": {
+            "name": "Can add user",
+            "content_type": 14,
+            "codename": "add_customuser"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 54,
+        "fields": {
+            "name": "Can change user",
+            "content_type": 14,
+            "codename": "change_customuser"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 55,
+        "fields": {
+            "name": "Can delete user",
+            "content_type": 14,
+            "codename": "delete_customuser"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 56,
+        "fields": {
+            "name": "Can view user",
+            "content_type": 14,
+            "codename": "view_customuser"
+        }
+    },
+    {
+        "model": "contenttypes.contenttype",
+        "pk": 1,
+        "fields": {
+            "app_label": "admin",
+            "model": "logentry"
+        }
+    },
+    {
+        "model": "contenttypes.contenttype",
+        "pk": 2,
+        "fields": {
+            "app_label": "auth",
+            "model": "permission"
+        }
+    },
+    {
+        "model": "contenttypes.contenttype",
+        "pk": 3,
+        "fields": {
+            "app_label": "auth",
+            "model": "group"
+        }
+    },
+    {
+        "model": "contenttypes.contenttype",
+        "pk": 4,
+        "fields": {
+            "app_label": "contenttypes",
+            "model": "contenttype"
+        }
+    },
+    {
+        "model": "contenttypes.contenttype",
+        "pk": 5,
+        "fields": {
+            "app_label": "sessions",
+            "model": "session"
+        }
+    },
+    {
+        "model": "contenttypes.contenttype",
+        "pk": 6,
+        "fields": {
+            "app_label": "authtoken",
+            "model": "token"
+        }
+    },
+    {
+        "model": "contenttypes.contenttype",
+        "pk": 7,
+        "fields": {
+            "app_label": "authtoken",
+            "model": "tokenproxy"
+        }
+    },
+    {
+        "model": "contenttypes.contenttype",
+        "pk": 8,
+        "fields": {
+            "app_label": "materials",
+            "model": "material"
+        }
+    },
+    {
+        "model": "contenttypes.contenttype",
+        "pk": 9,
+        "fields": {
+            "app_label": "materials",
+            "model": "property"
+        }
+    },
+    {
+        "model": "contenttypes.contenttype",
+        "pk": 10,
+        "fields": {
+            "app_label": "materials",
+            "model": "sustainabilityproperty"
+        }
+    },
+    {
+        "model": "contenttypes.contenttype",
+        "pk": 11,
+        "fields": {
+            "app_label": "materials",
+            "model": "article"
+        }
+    },
+    {
+        "model": "contenttypes.contenttype",
+        "pk": 12,
+        "fields": {
+            "app_label": "order_process",
+            "model": "order"
+        }
+    },
+    {
+        "model": "contenttypes.contenttype",
+        "pk": 13,
+        "fields": {
+            "app_label": "order_process",
+            "model": "request"
+        }
+    },
+    {
+        "model": "contenttypes.contenttype",
+        "pk": 14,
+        "fields": {
+            "app_label": "users",
+            "model": "customuser"
+        }
+    },
+    {
+        "model": "sessions.session",
+        "pk": "52s9umjoqfb9nlbf0yy0rth7gws5gwm0",
+        "fields": {
+            "session_data": ".eJxVjDkOwjAUBe_iGlleEsdQ0nMG62_BAWRLcVIh7k4ipYD2zcx7qwTrktPaZE4Tq4uy6vS7IdBTyg74AeVeNdWyzBPqXdEHbfpWWV7Xw_07yNDyVhuCCCIWhEbs3BCjCTScUdC74LuRMEYXrGxQepbAFtkHZ5CNmJ5Rfb4ROTkR:1n8LiV:6AWgSQmYK71ZfUeXwVo892Lj407ahBOlc2ZMHRwEl1g",
+            "expire_date": "2022-01-28T12:30:03.930Z"
+        }
+    },
+    {
+        "model": "sessions.session",
+        "pk": "904bv27y1z9gsx4s58cc46er09j2uyeb",
+        "fields": {
+            "session_data": ".eJxVjDkOwjAUBe_iGlleEsdQ0nMG62_BAWRLcVIh7k4ipYD2zcx7qwTrktPaZE4Tq4uy6vS7IdBTyg74AeVeNdWyzBPqXdEHbfpWWV7Xw_07yNDyVhuCCCIWhEbs3BCjCTScUdC74LuRMEYXrGxQepbAFtkHZ5CNmJ5Rfb4ROTkR:1n7ga1:EMiUN8hSzhgxv3QEaq9mbuHACo6NO9b3Mfklnmic5cg",
+            "expire_date": "2022-01-26T16:34:33.339Z"
+        }
+    },
+    {
+        "model": "sessions.session",
+        "pk": "982h8o4yyu3yplk734r72rl07lfs7vga",
+        "fields": {
+            "session_data": ".eJxVjDkOwjAUBe_iGlleEsdQ0nMG62_BAWRLcVIh7k4ipYD2zcx7qwTrktPaZE4Tq4uy6vS7IdBTyg74AeVeNdWyzBPqXdEHbfpWWV7Xw_07yNDyVhuCCCIWhEbs3BCjCTScUdC74LuRMEYXrGxQepbAFtkHZ5CNmJ5Rfb4ROTkR:1nEUuQ:tI4M1b0cOdGKvFZJnRwVbLCswz8vBd96XLm1IaXMwsk",
+            "expire_date": "2022-02-14T11:31:46.144Z"
+        }
+    },
+    {
+        "model": "sessions.session",
+        "pk": "bid0i5phz2rcrnh8ofwuhv84v7up1s69",
+        "fields": {
+            "session_data": ".eJxVjDkOwjAUBe_iGlleEsdQ0nMG62_BAWRLcVIh7k4ipYD2zcx7qwTrktPaZE4Tq4uy6vS7IdBTyg74AeVeNdWyzBPqXdEHbfpWWV7Xw_07yNDyVhuCCCIWhEbs3BCjCTScUdC74LuRMEYXrGxQepbAFtkHZ5CNmJ5Rfb4ROTkR:1nEVfy:CCuoCQLjJeKFcHcU504Hzh7kllXa1uNRa8ySOKmXJ64",
+            "expire_date": "2022-02-14T12:20:54.385Z"
+        }
+    },
+    {
+        "model": "sessions.session",
+        "pk": "k4g6us5v0f89ckqsaxewdpqcbgwg2z2m",
+        "fields": {
+            "session_data": ".eJxVjMsOwiAQRf-FtSE4dHi4dN9vIHQYpGogKe3K-O_apAvd3nPOfYkQt7WErfMS5iQuAsTpd5siPbjuIN1jvTVJra7LPMldkQftcmyJn9fD_TsosZdvnY0ijtZ6OjsyOGhisgDOIVqmPGitLCIMACqbZLS3HtEpTYYNRkDx_gDK2Tad:1nEVBw:SEu88ufUdVby_zidOCL2WT2qhXZBFqGKTngeMzdn284",
+            "expire_date": "2022-02-14T11:49:52.760Z"
+        }
+    },
+    {
+        "model": "sessions.session",
+        "pk": "q9jdnj6w05kisxshtw097it1ra5dznpw",
+        "fields": {
+            "session_data": ".eJxVjDkOwjAUBe_iGlleEsdQ0nMG62_BAWRLcVIh7k4ipYD2zcx7qwTrktPaZE4Tq4uy6vS7IdBTyg74AeVeNdWyzBPqXdEHbfpWWV7Xw_07yNDyVhuCCCIWhEbs3BCjCTScUdC74LuRMEYXrGxQepbAFtkHZ5CNmJ5Rfb4ROTkR:1nESRj:3gbI8ZaVnqG5efOGhxQ-Xw8IJSMUSdVpmf7iEQwFQX8",
+            "expire_date": "2022-02-14T08:53:59.041Z"
+        }
+    },
+    {
+        "model": "sessions.session",
+        "pk": "vk0tvxyxqxi25cp461tzir4ot4lvj87o",
+        "fields": {
+            "session_data": ".eJxVjDkOwjAUBe_iGlleEsdQ0nMG62_BAWRLcVIh7k4ipYD2zcx7qwTrktPaZE4Tq4uy6vS7IdBTyg74AeVeNdWyzBPqXdEHbfpWWV7Xw_07yNDyVhuCCCIWhEbs3BCjCTScUdC74LuRMEYXrGxQepbAFtkHZ5CNmJ5Rfb4ROTkR:1n8ieM:_mtj-9KgJwIoWVFTXGWVBeyw1Sxdu4o6gCBNxoRU_n0",
+            "expire_date": "2022-01-29T12:59:18.514Z"
+        }
+    },
+    {
+        "model": "sessions.session",
+        "pk": "xkrxmsz968mhhl0xkcsxn9d6jp4rclbp",
+        "fields": {
+            "session_data": ".eJxVjDkOwjAUBe_iGlleEsdQ0nMG62_BAWRLcVIh7k4ipYD2zcx7qwTrktPaZE4Tq4uy6vS7IdBTyg74AeVeNdWyzBPqXdEHbfpWWV7Xw_07yNDyVhuCCCIWhEbs3BCjCTScUdC74LuRMEYXrGxQepbAFtkHZ5CNmJ5Rfb4ROTkR:1n9Oea:Ox8x4ML8fUfszLHtX9CF45SERRTKiShJWaDjmsQ0dyQ",
+            "expire_date": "2022-01-31T09:50:20.353Z"
+        }
+    },
+    {
+        "model": "materials.material",
+        "pk": 4,
+        "fields": {
+            "name": "Dummy",
+            "description": "Dummy Test",
+            "material_class": "Metall",
+            "ecological_index": 0.56325,
+            "created_at": "2022-01-16T14:18:26.499Z",
+            "updated_at": "2022-01-29T13:22:42.679Z"
+        }
+    },
+    {
+        "model": "materials.material",
+        "pk": 5,
+        "fields": {
+            "name": "Edelstahl",
+            "description": "Edelstahl Sorte: xxx",
+            "material_class": "Metall",
+            "ecological_index": 1.098,
+            "created_at": "2022-01-16T14:22:50.170Z",
+            "updated_at": "2022-01-29T13:22:42.691Z"
+        }
+    },
+    {
+        "model": "materials.material",
+        "pk": 6,
+        "fields": {
+            "name": "Stahl",
+            "description": "Stahl Sorte: xxx",
+            "material_class": "Metall",
+            "ecological_index": 1.13475,
+            "created_at": "2022-01-16T14:23:05.380Z",
+            "updated_at": "2022-01-29T13:22:42.705Z"
+        }
+    },
+    {
+        "model": "materials.material",
+        "pk": 7,
+        "fields": {
+            "name": "Aluminium",
+            "description": "Aluminium Sorte: xxx",
+            "material_class": "Metall",
+            "ecological_index": 3.8125,
+            "created_at": "2022-01-16T14:23:14.776Z",
+            "updated_at": "2022-01-29T13:22:42.718Z"
+        }
+    },
+    {
+        "model": "materials.material",
+        "pk": 8,
+        "fields": {
+            "name": "Titan",
+            "description": "Titan Sorte: xxx",
+            "material_class": "Metall",
+            "ecological_index": 1.91225,
+            "created_at": "2022-01-16T14:23:22.464Z",
+            "updated_at": "2022-01-29T13:22:42.733Z"
+        }
+    },
+    {
+        "model": "materials.material",
+        "pk": 9,
+        "fields": {
+            "name": "Kupfer",
+            "description": "Kupfer Sorte: xxx",
+            "material_class": "Metall",
+            "ecological_index": 0.83975,
+            "created_at": "2022-01-16T14:23:32.734Z",
+            "updated_at": "2022-01-29T13:22:42.747Z"
+        }
+    },
+    {
+        "model": "materials.material",
+        "pk": 10,
+        "fields": {
+            "name": "PVC",
+            "description": "Kunstoff der Sorte PVC xxx",
+            "material_class": "Plastik",
+            "ecological_index": 0.0605,
+            "created_at": "2022-01-16T14:23:42.864Z",
+            "updated_at": "2022-01-29T13:22:42.760Z"
+        }
+    },
+    {
+        "model": "materials.material",
+        "pk": 11,
+        "fields": {
+            "name": "PET",
+            "description": "Kunsstoff der Sorte PET xxx",
+            "material_class": "Plastik",
+            "ecological_index": 0.04625,
+            "created_at": "2022-01-16T14:23:51.281Z",
+            "updated_at": "2022-01-29T13:22:42.774Z"
+        }
+    },
+    {
+        "model": "materials.material",
+        "pk": 12,
+        "fields": {
+            "name": "PLA",
+            "description": "Kunsstoff der Sorte PLA xxx",
+            "material_class": "Plastik",
+            "ecological_index": 0.0415,
+            "created_at": "2022-01-16T14:24:01.248Z",
+            "updated_at": "2022-01-29T13:22:42.788Z"
+        }
+    },
+    {
+        "model": "materials.material",
+        "pk": 13,
+        "fields": {
+            "name": "Eiche",
+            "description": "Eichenholz",
+            "material_class": "Holz",
+            "ecological_index": 1.071,
+            "created_at": "2022-01-16T14:24:11.315Z",
+            "updated_at": "2022-01-29T13:22:42.802Z"
+        }
+    },
+    {
+        "model": "materials.material",
+        "pk": 14,
+        "fields": {
+            "name": "Fichte",
+            "description": "Fichtenholz",
+            "material_class": "Holz",
+            "ecological_index": 1.1565,
+            "created_at": "2022-01-16T14:24:22.270Z",
+            "updated_at": "2022-01-29T13:22:42.817Z"
+        }
+    },
+    {
+        "model": "materials.property",
+        "pk": 10,
+        "fields": {
+            "property_name": "Dichte",
+            "value": 1.0,
+            "unit": "g/cm^3",
+            "material": 4,
+            "created_at": "2022-01-16T14:18:26.508Z",
+            "updated_at": "2022-01-29T13:18:28.890Z"
+        }
+    },
+    {
+        "model": "materials.property",
+        "pk": 11,
+        "fields": {
+            "property_name": "Zugfestigkeit",
+            "value": 0.0,
+            "unit": "N/mm^2",
+            "material": 4,
+            "created_at": "2022-01-16T14:18:26.516Z",
+            "updated_at": "2022-01-29T13:18:28.901Z"
+        }
+    },
+    {
+        "model": "materials.property",
+        "pk": 12,
+        "fields": {
+            "property_name": "Dehngrenze",
+            "value": 0.0,
+            "unit": "N/mm^2",
+            "material": 4,
+            "created_at": "2022-01-16T14:18:26.524Z",
+            "updated_at": "2022-01-29T13:18:28.914Z"
+        }
+    },
+    {
+        "model": "materials.property",
+        "pk": 13,
+        "fields": {
+            "property_name": "Bruchdehnung",
+            "value": 0.0,
+            "unit": "%",
+            "material": 4,
+            "created_at": "2022-01-16T14:18:26.533Z",
+            "updated_at": "2022-01-29T13:18:28.926Z"
+        }
+    },
+    {
+        "model": "materials.property",
+        "pk": 14,
+        "fields": {
+            "property_name": "Hõrte",
+            "value": 0.0,
+            "unit": "HB",
+            "material": 4,
+            "created_at": "2022-01-16T14:18:26.541Z",
+            "updated_at": "2022-01-29T13:18:28.938Z"
+        }
+    },
+    {
+        "model": "materials.property",
+        "pk": 15,
+        "fields": {
+            "property_name": "Dichte",
+            "value": 7.9,
+            "unit": "g/cm^3",
+            "material": 5,
+            "created_at": "2022-01-16T14:22:50.181Z",
+            "updated_at": "2022-01-29T13:18:44.353Z"
+        }
+    },
+    {
+        "model": "materials.property",
+        "pk": 16,
+        "fields": {
+            "property_name": "Zugfestigkeit",
+            "value": 500.0,
+            "unit": "N/mm^2",
+            "material": 5,
+            "created_at": "2022-01-16T14:22:50.188Z",
+            "updated_at": "2022-01-29T13:18:44.366Z"
+        }
+    },
+    {
+        "model": "materials.property",
+        "pk": 17,
+        "fields": {
+            "property_name": "Dehngrenze",
+            "value": 0.0,
+            "unit": "N/mm^2",
+            "material": 5,
+            "created_at": "2022-01-16T14:22:50.197Z",
+            "updated_at": "2022-01-29T13:18:44.377Z"
+        }
+    },
+    {
+        "model": "materials.property",
+        "pk": 18,
+        "fields": {
+            "property_name": "Bruchdehnung",
+            "value": 40.0,
+            "unit": "%",
+            "material": 5,
+            "created_at": "2022-01-16T14:22:50.203Z",
+            "updated_at": "2022-01-29T13:18:44.389Z"
+        }
+    },
+    {
+        "model": "materials.property",
+        "pk": 19,
+        "fields": {
+            "property_name": "Hõrte",
+            "value": 0.0,
+            "unit": "HB",
+            "material": 5,
+            "created_at": "2022-01-16T14:22:50.213Z",
+            "updated_at": "2022-01-29T13:18:44.401Z"
+        }
+    },
+    {
+        "model": "materials.property",
+        "pk": 20,
+        "fields": {
+            "property_name": "Dichte",
+            "value": 7.85,
+            "unit": "g/cm^3",
+            "material": 6,
+            "created_at": "2022-01-16T14:23:05.387Z",
+            "updated_at": "2022-01-29T13:22:09.092Z"
+        }
+    },
+    {
+        "model": "materials.property",
+        "pk": 21,
+        "fields": {
+            "property_name": "Zugfestigkeit",
+            "value": 340.0,
+            "unit": "N/mm^2",
+            "material": 6,
+            "created_at": "2022-01-16T14:23:05.395Z",
+            "updated_at": "2022-01-29T13:22:09.103Z"
+        }
+    },
+    {
+        "model": "materials.property",
+        "pk": 22,
+        "fields": {
+            "property_name": "Dehngrenze",
+            "value": 0.0,
+            "unit": "N/mm^2",
+            "material": 6,
+            "created_at": "2022-01-16T14:23:05.401Z",
+            "updated_at": "2022-01-29T13:22:09.115Z"
+        }
+    },
+    {
+        "model": "materials.property",
+        "pk": 23,
+        "fields": {
+            "property_name": "Bruchdehnung",
+            "value": 22.5,
+            "unit": "%",
+            "material": 6,
+            "created_at": "2022-01-16T14:23:05.406Z",
+            "updated_at": "2022-01-29T13:22:09.127Z"
+        }
+    },
+    {
+        "model": "materials.property",
+        "pk": 24,
+        "fields": {
+            "property_name": "Hõrte",
+            "value": 0.0,
+            "unit": "HB",
+            "material": 6,
+            "created_at": "2022-01-16T14:23:05.411Z",
+            "updated_at": "2022-01-29T13:22:09.138Z"
+        }
+    },
+    {
+        "model": "materials.property",
+        "pk": 25,
+        "fields": {
+            "property_name": "Dichte",
+            "value": 2.7,
+            "unit": "g/cm^3",
+            "material": 7,
+            "created_at": "2022-01-16T14:23:14.782Z",
+            "updated_at": "2022-01-29T13:19:05.635Z"
+        }
+    },
+    {
+        "model": "materials.property",
+        "pk": 26,
+        "fields": {
+            "property_name": "Zugfestigkeit",
+            "value": 77.5,
+            "unit": "N/mm^2",
+            "material": 7,
+            "created_at": "2022-01-16T14:23:14.787Z",
+            "updated_at": "2022-01-29T13:19:05.647Z"
+        }
+    },
+    {
+        "model": "materials.property",
+        "pk": 27,
+        "fields": {
+            "property_name": "Dehngrenze",
+            "value": 0.0,
+            "unit": "N/mm^2",
+            "material": 7,
+            "created_at": "2022-01-16T14:23:14.793Z",
+            "updated_at": "2022-01-29T13:19:05.658Z"
+        }
+    },
+    {
+        "model": "materials.property",
+        "pk": 28,
+        "fields": {
+            "property_name": "Bruchdehnung",
+            "value": 25.0,
+            "unit": "%",
+            "material": 7,
+            "created_at": "2022-01-16T14:23:14.798Z",
+            "updated_at": "2022-01-29T13:19:05.670Z"
+        }
+    },
+    {
+        "model": "materials.property",
+        "pk": 29,
+        "fields": {
+            "property_name": "Hõrte",
+            "value": 0.0,
+            "unit": "HB",
+            "material": 7,
+            "created_at": "2022-01-16T14:23:14.803Z",
+            "updated_at": "2022-01-29T13:19:05.682Z"
+        }
+    },
+    {
+        "model": "materials.property",
+        "pk": 30,
+        "fields": {
+            "property_name": "Dichte",
+            "value": 4.5,
+            "unit": "g/cm^3",
+            "material": 8,
+            "created_at": "2022-01-16T14:23:22.469Z",
+            "updated_at": "2022-01-29T13:19:17.208Z"
+        }
+    },
+    {
+        "model": "materials.property",
+        "pk": 31,
+        "fields": {
+            "property_name": "Zugfestigkeit",
+            "value": 1200.0,
+            "unit": "N/mm^2",
+            "material": 8,
+            "created_at": "2022-01-16T14:23:22.474Z",
+            "updated_at": "2022-01-29T13:19:17.220Z"
+        }
+    },
+    {
+        "model": "materials.property",
+        "pk": 32,
+        "fields": {
+            "property_name": "Dehngrenze",
+            "value": 0.0,
+            "unit": "N/mm^2",
+            "material": 8,
+            "created_at": "2022-01-16T14:23:22.479Z",
+            "updated_at": "2022-01-29T13:19:17.231Z"
+        }
+    },
+    {
+        "model": "materials.property",
+        "pk": 33,
+        "fields": {
+            "property_name": "Bruchdehnung",
+            "value": 40.0,
+            "unit": "%",
+            "material": 8,
+            "created_at": "2022-01-16T14:23:22.485Z",
+            "updated_at": "2022-01-29T13:19:17.243Z"
+        }
+    },
+    {
+        "model": "materials.property",
+        "pk": 34,
+        "fields": {
+            "property_name": "Hõrte",
+            "value": 120.0,
+            "unit": "HB",
+            "material": 8,
+            "created_at": "2022-01-16T14:23:22.490Z",
+            "updated_at": "2022-01-29T13:19:17.255Z"
+        }
+    },
+    {
+        "model": "materials.property",
+        "pk": 35,
+        "fields": {
+            "property_name": "Dichte",
+            "value": 8.96,
+            "unit": "g/cm^3",
+            "material": 9,
+            "created_at": "2022-01-16T14:23:32.739Z",
+            "updated_at": "2022-01-29T13:19:27.396Z"
+        }
+    },
+    {
+        "model": "materials.property",
+        "pk": 36,
+        "fields": {
+            "property_name": "Zugfestigkeit",
+            "value": 200.0,
+            "unit": "N/mm^2",
+            "material": 9,
+            "created_at": "2022-01-16T14:23:32.749Z",
+            "updated_at": "2022-01-29T13:19:27.408Z"
+        }
+    },
+    {
+        "model": "materials.property",
+        "pk": 37,
+        "fields": {
+            "property_name": "Dehngrenze",
+            "value": 60.0,
+            "unit": "N/mm^2",
+            "material": 9,
+            "created_at": "2022-01-16T14:23:32.762Z",
+            "updated_at": "2022-01-29T13:19:27.420Z"
+        }
+    },
+    {
+        "model": "materials.property",
+        "pk": 38,
+        "fields": {
+            "property_name": "Bruchdehnung",
+            "value": 40.0,
+            "unit": "%",
+            "material": 9,
+            "created_at": "2022-01-16T14:23:32.767Z",
+            "updated_at": "2022-01-29T13:19:27.432Z"
+        }
+    },
+    {
+        "model": "materials.property",
+        "pk": 39,
+        "fields": {
+            "property_name": "Hõrte",
+            "value": 0.0,
+            "unit": "HB",
+            "material": 9,
+            "created_at": "2022-01-16T14:23:32.772Z",
+            "updated_at": "2022-01-29T13:19:27.444Z"
+        }
+    },
+    {
+        "model": "materials.property",
+        "pk": 40,
+        "fields": {
+            "property_name": "Dichte",
+            "value": 1.37,
+            "unit": "g/cm^3",
+            "material": 10,
+            "created_at": "2022-01-16T14:23:42.870Z",
+            "updated_at": "2022-01-29T13:19:39.335Z"
+        }
+    },
+    {
+        "model": "materials.property",
+        "pk": 41,
+        "fields": {
+            "property_name": "Zugfestigkeit",
+            "value": 41.0,
+            "unit": "N/mm^2",
+            "material": 10,
+            "created_at": "2022-01-16T14:23:42.874Z",
+            "updated_at": "2022-01-29T13:19:39.346Z"
+        }
+    },
+    {
+        "model": "materials.property",
+        "pk": 42,
+        "fields": {
+            "property_name": "Dehngrenze",
+            "value": 0.0,
+            "unit": "N/mm^2",
+            "material": 10,
+            "created_at": "2022-01-16T14:23:42.878Z",
+            "updated_at": "2022-01-29T13:19:39.358Z"
+        }
+    },
+    {
+        "model": "materials.property",
+        "pk": 43,
+        "fields": {
+            "property_name": "Bruchdehnung",
+            "value": 7.0,
+            "unit": "%",
+            "material": 10,
+            "created_at": "2022-01-16T14:23:42.884Z",
+            "updated_at": "2022-01-29T13:19:39.370Z"
+        }
+    },
+    {
+        "model": "materials.property",
+        "pk": 44,
+        "fields": {
+            "property_name": "Hõrte",
+            "value": 0.0,
+            "unit": "HB",
+            "material": 10,
+            "created_at": "2022-01-16T14:23:42.888Z",
+            "updated_at": "2022-01-29T13:19:39.382Z"
+        }
+    },
+    {
+        "model": "materials.property",
+        "pk": 45,
+        "fields": {
+            "property_name": "Dichte",
+            "value": 1.38,
+            "unit": "g/cm^3",
+            "material": 11,
+            "created_at": "2022-01-16T14:23:51.285Z",
+            "updated_at": "2022-01-29T13:20:10.694Z"
+        }
+    },
+    {
+        "model": "materials.property",
+        "pk": 46,
+        "fields": {
+            "property_name": "Zugfestigkeit",
+            "value": 42.0,
+            "unit": "N/mm^2",
+            "material": 11,
+            "created_at": "2022-01-16T14:23:51.290Z",
+            "updated_at": "2022-01-29T13:20:10.708Z"
+        }
+    },
+    {
+        "model": "materials.property",
+        "pk": 47,
+        "fields": {
+            "property_name": "Dehngrenze",
+            "value": 0.0,
+            "unit": "N/mm^2",
+            "material": 11,
+            "created_at": "2022-01-16T14:23:51.296Z",
+            "updated_at": "2022-01-29T13:20:10.719Z"
+        }
+    },
+    {
+        "model": "materials.property",
+        "pk": 48,
+        "fields": {
+            "property_name": "Bruchdehnung",
+            "value": 7.0,
+            "unit": "%",
+            "material": 11,
+            "created_at": "2022-01-16T14:23:51.301Z",
+            "updated_at": "2022-01-29T13:20:10.730Z"
+        }
+    },
+    {
+        "model": "materials.property",
+        "pk": 49,
+        "fields": {
+            "property_name": "Hõrte",
+            "value": 0.0,
+            "unit": "HB",
+            "material": 11,
+            "created_at": "2022-01-16T14:23:51.305Z",
+            "updated_at": "2022-01-29T13:20:10.742Z"
+        }
+    },
+    {
+        "model": "materials.property",
+        "pk": 50,
+        "fields": {
+            "property_name": "Dichte",
+            "value": 1.21,
+            "unit": "g/cm^3",
+            "material": 12,
+            "created_at": "2022-01-16T14:24:01.254Z",
+            "updated_at": "2022-01-29T13:20:22.636Z"
+        }
+    },
+    {
+        "model": "materials.property",
+        "pk": 51,
+        "fields": {
+            "property_name": "Zugfestigkeit",
+            "value": 35.0,
+            "unit": "N/mm^2",
+            "material": 12,
+            "created_at": "2022-01-16T14:24:01.259Z",
+            "updated_at": "2022-01-29T13:20:22.649Z"
+        }
+    },
+    {
+        "model": "materials.property",
+        "pk": 52,
+        "fields": {
+            "property_name": "Dehngrenze",
+            "value": 0.0,
+            "unit": "N/mm^2",
+            "material": 12,
+            "created_at": "2022-01-16T14:24:01.264Z",
+            "updated_at": "2022-01-29T13:20:22.661Z"
+        }
+    },
+    {
+        "model": "materials.property",
+        "pk": 53,
+        "fields": {
+            "property_name": "Bruchdehnung",
+            "value": 6.0,
+            "unit": "%",
+            "material": 12,
+            "created_at": "2022-01-16T14:24:01.269Z",
+            "updated_at": "2022-01-29T13:20:22.672Z"
+        }
+    },
+    {
+        "model": "materials.property",
+        "pk": 54,
+        "fields": {
+            "property_name": "Hõrte",
+            "value": 83.0,
+            "unit": "HB",
+            "material": 12,
+            "created_at": "2022-01-16T14:24:01.274Z",
+            "updated_at": "2022-01-29T13:20:22.683Z"
+        }
+    },
+    {
+        "model": "materials.property",
+        "pk": 55,
+        "fields": {
+            "property_name": "Dichte",
+            "value": 0.71,
+            "unit": "g/cm^3",
+            "material": 13,
+            "created_at": "2022-01-16T14:24:11.320Z",
+            "updated_at": "2022-01-29T13:20:36.476Z"
+        }
+    },
+    {
+        "model": "materials.property",
+        "pk": 56,
+        "fields": {
+            "property_name": "Zugfestigkeit",
+            "value": 90.0,
+            "unit": "N/mm^2",
+            "material": 13,
+            "created_at": "2022-01-16T14:24:11.326Z",
+            "updated_at": "2022-01-29T13:20:36.489Z"
+        }
+    },
+    {
+        "model": "materials.property",
+        "pk": 57,
+        "fields": {
+            "property_name": "Dehngrenze",
+            "value": 0.0,
+            "unit": "N/mm^2",
+            "material": 13,
+            "created_at": "2022-01-16T14:24:11.331Z",
+            "updated_at": "2022-01-29T13:20:36.500Z"
+        }
+    },
+    {
+        "model": "materials.property",
+        "pk": 58,
+        "fields": {
+            "property_name": "Bruchdehnung",
+            "value": 0.0,
+            "unit": "%",
+            "material": 13,
+            "created_at": "2022-01-16T14:24:11.336Z",
+            "updated_at": "2022-01-29T13:20:36.512Z"
+        }
+    },
+    {
+        "model": "materials.property",
+        "pk": 59,
+        "fields": {
+            "property_name": "Hõrte",
+            "value": 37.0,
+            "unit": "HB",
+            "material": 13,
+            "created_at": "2022-01-16T14:24:11.341Z",
+            "updated_at": "2022-01-29T13:20:36.524Z"
+        }
+    },
+    {
+        "model": "materials.property",
+        "pk": 60,
+        "fields": {
+            "property_name": "Dichte",
+            "value": 0.46,
+            "unit": "g/cm^3",
+            "material": 14,
+            "created_at": "2022-01-16T14:24:22.275Z",
+            "updated_at": "2022-01-29T13:20:47.070Z"
+        }
+    },
+    {
+        "model": "materials.property",
+        "pk": 61,
+        "fields": {
+            "property_name": "Zugfestigkeit",
+            "value": 95.0,
+            "unit": "N/mm^2",
+            "material": 14,
+            "created_at": "2022-01-16T14:24:22.281Z",
+            "updated_at": "2022-01-29T13:20:47.082Z"
+        }
+    },
+    {
+        "model": "materials.property",
+        "pk": 62,
+        "fields": {
+            "property_name": "Dehngrenze",
+            "value": 0.0,
+            "unit": "N/mm^2",
+            "material": 14,
+            "created_at": "2022-01-16T14:24:22.284Z",
+            "updated_at": "2022-01-29T13:20:47.093Z"
+        }
+    },
+    {
+        "model": "materials.property",
+        "pk": 63,
+        "fields": {
+            "property_name": "Bruchdehnung",
+            "value": 0.0,
+            "unit": "%",
+            "material": 14,
+            "created_at": "2022-01-16T14:24:22.290Z",
+            "updated_at": "2022-01-29T13:20:47.105Z"
+        }
+    },
+    {
+        "model": "materials.property",
+        "pk": 64,
+        "fields": {
+            "property_name": "Hõrte",
+            "value": 12.0,
+            "unit": "HB",
+            "material": 14,
+            "created_at": "2022-01-16T14:24:22.294Z",
+            "updated_at": "2022-01-29T13:20:47.117Z"
+        }
+    },
+    {
+        "model": "materials.sustainabilityproperty",
+        "pk": 13,
+        "fields": {
+            "property_name": "CO2 Verbrauch",
+            "value": 1.0,
+            "unit": "t/t",
+            "material": 4,
+            "eco_score": "0.556",
+            "created_at": "2022-01-16T14:18:26.550Z",
+            "updated_at": "2022-01-29T13:18:28.954Z"
+        }
+    },
+    {
+        "model": "materials.sustainabilityproperty",
+        "pk": 14,
+        "fields": {
+            "property_name": "Wasserverbrauch",
+            "value": 100000.0,
+            "unit": "l/t",
+            "material": 4,
+            "eco_score": "1.667",
+            "created_at": "2022-01-16T14:18:26.570Z",
+            "updated_at": "2022-01-29T13:18:29.129Z"
+        }
+    },
+    {
+        "model": "materials.sustainabilityproperty",
+        "pk": 15,
+        "fields": {
+            "property_name": "Energieverbrauch",
+            "value": 1000.0,
+            "unit": "kWh/t",
+            "material": 4,
+            "eco_score": "0.030",
+            "created_at": "2022-01-16T14:18:26.592Z",
+            "updated_at": "2022-01-29T13:18:29.300Z"
+        }
+    },
+    {
+        "model": "materials.sustainabilityproperty",
+        "pk": 16,
+        "fields": {
+            "property_name": "Recyclingfõhigkeit",
+            "value": 100.0,
+            "unit": "%",
+            "material": 4,
+            "eco_score": "0.000",
+            "created_at": "2022-01-16T14:18:26.611Z",
+            "updated_at": "2022-01-29T13:18:29.466Z"
+        }
+    },
+    {
+        "model": "materials.sustainabilityproperty",
+        "pk": 17,
+        "fields": {
+            "property_name": "CO2 Verbrauch",
+            "value": 1.24,
+            "unit": "t/t",
+            "material": 5,
+            "eco_score": "0.689",
+            "created_at": "2022-01-16T14:22:50.224Z",
+            "updated_at": "2022-01-29T13:18:44.415Z"
+        }
+    },
+    {
+        "model": "materials.sustainabilityproperty",
+        "pk": 18,
+        "fields": {
+            "property_name": "Wasserverbrauch",
+            "value": 200000.0,
+            "unit": "l/t",
+            "material": 5,
+            "eco_score": "3.333",
+            "created_at": "2022-01-16T14:22:50.262Z",
+            "updated_at": "2022-01-29T13:18:44.588Z"
+        }
+    },
+    {
+        "model": "materials.sustainabilityproperty",
+        "pk": 19,
+        "fields": {
+            "property_name": "Energieverbrauch",
+            "value": 5600.0,
+            "unit": "kWh/t",
+            "material": 5,
+            "eco_score": "0.170",
+            "created_at": "2022-01-16T14:22:50.292Z",
+            "updated_at": "2022-01-29T13:18:44.757Z"
+        }
+    },
+    {
+        "model": "materials.sustainabilityproperty",
+        "pk": 20,
+        "fields": {
+            "property_name": "Recyclingfõhigkeit",
+            "value": 96.0,
+            "unit": "%",
+            "material": 5,
+            "eco_score": "0.200",
+            "created_at": "2022-01-16T14:22:50.327Z",
+            "updated_at": "2022-01-29T13:18:44.930Z"
+        }
+    },
+    {
+        "model": "materials.sustainabilityproperty",
+        "pk": 21,
+        "fields": {
+            "property_name": "CO2 Verbrauch",
+            "value": 1.5,
+            "unit": "t/t",
+            "material": 6,
+            "eco_score": "0.833",
+            "created_at": "2022-01-16T14:23:05.417Z",
+            "updated_at": "2022-01-29T13:22:09.154Z"
+        }
+    },
+    {
+        "model": "materials.sustainabilityproperty",
+        "pk": 22,
+        "fields": {
+            "property_name": "Wasserverbrauch",
+            "value": 200000.0,
+            "unit": "l/t",
+            "material": 6,
+            "eco_score": "3.333",
+            "created_at": "2022-01-16T14:23:05.447Z",
+            "updated_at": "2022-01-29T13:22:42.389Z"
+        }
+    },
+    {
+        "model": "materials.sustainabilityproperty",
+        "pk": 23,
+        "fields": {
+            "property_name": "Energieverbrauch",
+            "value": 5700.0,
+            "unit": "kWh/t",
+            "material": 6,
+            "eco_score": "0.173",
+            "created_at": "2022-01-16T14:23:05.477Z",
+            "updated_at": "2022-01-29T13:22:42.526Z"
+        }
+    },
+    {
+        "model": "materials.sustainabilityproperty",
+        "pk": 24,
+        "fields": {
+            "property_name": "Recyclingfõhigkeit",
+            "value": 96.0,
+            "unit": "%",
+            "material": 6,
+            "eco_score": "0.200",
+            "created_at": "2022-01-16T14:23:05.505Z",
+            "updated_at": "2022-01-29T13:22:42.666Z"
+        }
+    },
+    {
+        "model": "materials.sustainabilityproperty",
+        "pk": 25,
+        "fields": {
+            "property_name": "CO2 Verbrauch",
+            "value": 9.0,
+            "unit": "t/t",
+            "material": 7,
+            "eco_score": "5.000",
+            "created_at": "2022-01-16T14:23:14.809Z",
+            "updated_at": "2022-01-29T13:19:05.697Z"
+        }
+    },
+    {
+        "model": "materials.sustainabilityproperty",
+        "pk": 26,
+        "fields": {
+            "property_name": "Wasserverbrauch",
+            "value": 300000.0,
+            "unit": "l/t",
+            "material": 7,
+            "eco_score": "5.000",
+            "created_at": "2022-01-16T14:23:14.845Z",
+            "updated_at": "2022-01-29T13:19:05.870Z"
+        }
+    },
+    {
+        "model": "materials.sustainabilityproperty",
+        "pk": 27,
+        "fields": {
+            "property_name": "Energieverbrauch",
+            "value": 165000.0,
+            "unit": "kWh/t",
+            "material": 7,
+            "eco_score": "5.000",
+            "created_at": "2022-01-16T14:23:14.883Z",
+            "updated_at": "2022-01-29T13:19:06.042Z"
+        }
+    },
+    {
+        "model": "materials.sustainabilityproperty",
+        "pk": 28,
+        "fields": {
+            "property_name": "Recyclingfõhigkeit",
+            "value": 95.0,
+            "unit": "%",
+            "material": 7,
+            "eco_score": "0.250",
+            "created_at": "2022-01-16T14:23:14.917Z",
+            "updated_at": "2022-01-29T13:19:06.211Z"
+        }
+    },
+    {
+        "model": "materials.sustainabilityproperty",
+        "pk": 29,
+        "fields": {
+            "property_name": "CO2 Verbrauch",
+            "value": 5.0,
+            "unit": "t/t",
+            "material": 8,
+            "eco_score": "2.778",
+            "created_at": "2022-01-16T14:23:22.496Z",
+            "updated_at": "2022-01-29T13:19:17.270Z"
+        }
+    },
+    {
+        "model": "materials.sustainabilityproperty",
+        "pk": 30,
+        "fields": {
+            "property_name": "Wasserverbrauch",
+            "value": 250000.0,
+            "unit": "l/t",
+            "material": 8,
+            "eco_score": "4.167",
+            "created_at": "2022-01-16T14:23:22.543Z",
+            "updated_at": "2022-01-29T13:19:17.438Z"
+        }
+    },
+    {
+        "model": "materials.sustainabilityproperty",
+        "pk": 31,
+        "fields": {
+            "property_name": "Energieverbrauch",
+            "value": 15000.0,
+            "unit": "kWh/t",
+            "material": 8,
+            "eco_score": "0.454",
+            "created_at": "2022-01-16T14:23:22.591Z",
+            "updated_at": "2022-01-29T13:19:17.606Z"
+        }
+    },
+    {
+        "model": "materials.sustainabilityproperty",
+        "pk": 32,
+        "fields": {
+            "property_name": "Recyclingfõhigkeit",
+            "value": 95.0,
+            "unit": "%",
+            "material": 8,
+            "eco_score": "0.250",
+            "created_at": "2022-01-16T14:23:22.633Z",
+            "updated_at": "2022-01-29T13:19:17.770Z"
+        }
+    },
+    {
+        "model": "materials.sustainabilityproperty",
+        "pk": 33,
+        "fields": {
+            "property_name": "CO2 Verbrauch",
+            "value": 2.6,
+            "unit": "t/t",
+            "material": 9,
+            "eco_score": "1.444",
+            "created_at": "2022-01-16T14:23:32.780Z",
+            "updated_at": "2022-01-29T13:19:27.460Z"
+        }
+    },
+    {
+        "model": "materials.sustainabilityproperty",
+        "pk": 34,
+        "fields": {
+            "property_name": "Wasserverbrauch",
+            "value": 74000.0,
+            "unit": "l/t",
+            "material": 9,
+            "eco_score": "1.233",
+            "created_at": "2022-01-16T14:23:32.833Z",
+            "updated_at": "2022-01-29T13:19:27.631Z"
+        }
+    },
+    {
+        "model": "materials.sustainabilityproperty",
+        "pk": 35,
+        "fields": {
+            "property_name": "Energieverbrauch",
+            "value": 6000.0,
+            "unit": "kWh/t",
+            "material": 9,
+            "eco_score": "0.182",
+            "created_at": "2022-01-16T14:23:32.886Z",
+            "updated_at": "2022-01-29T13:19:27.805Z"
+        }
+    },
+    {
+        "model": "materials.sustainabilityproperty",
+        "pk": 36,
+        "fields": {
+            "property_name": "Recyclingfõhigkeit",
+            "value": 90.0,
+            "unit": "%",
+            "material": 9,
+            "eco_score": "0.500",
+            "created_at": "2022-01-16T14:23:32.938Z",
+            "updated_at": "2022-01-29T13:19:27.976Z"
+        }
+    },
+    {
+        "model": "materials.sustainabilityproperty",
+        "pk": 37,
+        "fields": {
+            "property_name": "CO2 Verbrauch",
+            "value": 0.25,
+            "unit": "t/t",
+            "material": 10,
+            "eco_score": "0.139",
+            "created_at": "2022-01-16T14:23:42.896Z",
+            "updated_at": "2022-01-29T13:19:39.398Z"
+        }
+    },
+    {
+        "model": "materials.sustainabilityproperty",
+        "pk": 38,
+        "fields": {
+            "property_name": "Wasserverbrauch",
+            "value": 3500.0,
+            "unit": "l/t",
+            "material": 10,
+            "eco_score": "0.058",
+            "created_at": "2022-01-16T14:23:42.953Z",
+            "updated_at": "2022-01-29T13:19:39.568Z"
+        }
+    },
+    {
+        "model": "materials.sustainabilityproperty",
+        "pk": 39,
+        "fields": {
+            "property_name": "Energieverbrauch",
+            "value": 1500.0,
+            "unit": "kWh/t",
+            "material": 10,
+            "eco_score": "0.045",
+            "created_at": "2022-01-16T14:23:43.014Z",
+            "updated_at": "2022-01-29T13:19:39.740Z"
+        }
+    },
+    {
+        "model": "materials.sustainabilityproperty",
+        "pk": 40,
+        "fields": {
+            "property_name": "Recyclingfõhigkeit",
+            "value": 100.0,
+            "unit": "%",
+            "material": 10,
+            "eco_score": "0.000",
+            "created_at": "2022-01-16T14:23:43.073Z",
+            "updated_at": "2022-01-29T13:19:39.907Z"
+        }
+    },
+    {
+        "model": "materials.sustainabilityproperty",
+        "pk": 41,
+        "fields": {
+            "property_name": "CO2 Verbrauch",
+            "value": 0.26,
+            "unit": "t/t",
+            "material": 11,
+            "eco_score": "0.144",
+            "created_at": "2022-01-16T14:23:51.313Z",
+            "updated_at": "2022-01-29T13:20:10.758Z"
+        }
+    },
+    {
+        "model": "materials.sustainabilityproperty",
+        "pk": 42,
+        "fields": {
+            "property_name": "Wasserverbrauch",
+            "value": 300.0,
+            "unit": "l/t",
+            "material": 11,
+            "eco_score": "0.005",
+            "created_at": "2022-01-16T14:23:51.381Z",
+            "updated_at": "2022-01-29T13:20:10.928Z"
+        }
+    },
+    {
+        "model": "materials.sustainabilityproperty",
+        "pk": 43,
+        "fields": {
+            "property_name": "Energieverbrauch",
+            "value": 1200.0,
+            "unit": "kWh/t",
+            "material": 11,
+            "eco_score": "0.036",
+            "created_at": "2022-01-16T14:23:51.449Z",
+            "updated_at": "2022-01-29T13:20:11.099Z"
+        }
+    },
+    {
+        "model": "materials.sustainabilityproperty",
+        "pk": 44,
+        "fields": {
+            "property_name": "Recyclingfõhigkeit",
+            "value": 100.0,
+            "unit": "%",
+            "material": 11,
+            "eco_score": "0.000",
+            "created_at": "2022-01-16T14:23:51.522Z",
+            "updated_at": "2022-01-29T13:20:11.266Z"
+        }
+    },
+    {
+        "model": "materials.sustainabilityproperty",
+        "pk": 45,
+        "fields": {
+            "property_name": "CO2 Verbrauch",
+            "value": 0.2,
+            "unit": "t/t",
+            "material": 12,
+            "eco_score": "0.111",
+            "created_at": "2022-01-16T14:24:01.283Z",
+            "updated_at": "2022-01-29T13:20:22.698Z"
+        }
+    },
+    {
+        "model": "materials.sustainabilityproperty",
+        "pk": 46,
+        "fields": {
+            "property_name": "Wasserverbrauch",
+            "value": 1500.0,
+            "unit": "l/t",
+            "material": 12,
+            "eco_score": "0.025",
+            "created_at": "2022-01-16T14:24:01.358Z",
+            "updated_at": "2022-01-29T13:20:22.853Z"
+        }
+    },
+    {
+        "model": "materials.sustainabilityproperty",
+        "pk": 47,
+        "fields": {
+            "property_name": "Energieverbrauch",
+            "value": 1000.0,
+            "unit": "kWh/t",
+            "material": 12,
+            "eco_score": "0.030",
+            "created_at": "2022-01-16T14:24:01.433Z",
+            "updated_at": "2022-01-29T13:20:22.979Z"
+        }
+    },
+    {
+        "model": "materials.sustainabilityproperty",
+        "pk": 48,
+        "fields": {
+            "property_name": "Recyclingfõhigkeit",
+            "value": 100.0,
+            "unit": "%",
+            "material": 12,
+            "eco_score": "0.000",
+            "created_at": "2022-01-16T14:24:01.507Z",
+            "updated_at": "2022-01-29T13:20:23.236Z"
+        }
+    },
+    {
+        "model": "materials.sustainabilityproperty",
+        "pk": 49,
+        "fields": {
+            "property_name": "CO2 Verbrauch",
+            "value": 0.1,
+            "unit": "t/t",
+            "material": 13,
+            "eco_score": "0.056",
+            "created_at": "2022-01-16T14:24:11.350Z",
+            "updated_at": "2022-01-29T13:20:36.539Z"
+        }
+    },
+    {
+        "model": "materials.sustainabilityproperty",
+        "pk": 50,
+        "fields": {
+            "property_name": "Wasserverbrauch",
+            "value": 100000.0,
+            "unit": "l/t",
+            "material": 13,
+            "eco_score": "1.667",
+            "created_at": "2022-01-16T14:24:11.433Z",
+            "updated_at": "2022-01-29T13:20:36.714Z"
+        }
+    },
+    {
+        "model": "materials.sustainabilityproperty",
+        "pk": 51,
+        "fields": {
+            "property_name": "Energieverbrauch",
+            "value": 2000.0,
+            "unit": "kWh/t",
+            "material": 13,
+            "eco_score": "0.061",
+            "created_at": "2022-01-16T14:24:11.516Z",
+            "updated_at": "2022-01-29T13:20:36.884Z"
+        }
+    },
+    {
+        "model": "materials.sustainabilityproperty",
+        "pk": 52,
+        "fields": {
+            "property_name": "Recyclingfõhigkeit",
+            "value": 50.0,
+            "unit": "%",
+            "material": 13,
+            "eco_score": "2.500",
+            "created_at": "2022-01-16T14:24:11.595Z",
+            "updated_at": "2022-01-29T13:20:37.055Z"
+        }
+    },
+    {
+        "model": "materials.sustainabilityproperty",
+        "pk": 53,
+        "fields": {
+            "property_name": "CO2 Verbrauch",
+            "value": 0.1,
+            "unit": "t/t",
+            "material": 14,
+            "eco_score": "0.056",
+            "created_at": "2022-01-16T14:24:22.303Z",
+            "updated_at": "2022-01-29T13:20:47.132Z"
+        }
+    },
+    {
+        "model": "materials.sustainabilityproperty",
+        "pk": 54,
+        "fields": {
+            "property_name": "Wasserverbrauch",
+            "value": 120000.0,
+            "unit": "l/t",
+            "material": 14,
+            "eco_score": "2.000",
+            "created_at": "2022-01-16T14:24:22.392Z",
+            "updated_at": "2022-01-29T13:20:47.302Z"
+        }
+    },
+    {
+        "model": "materials.sustainabilityproperty",
+        "pk": 55,
+        "fields": {
+            "property_name": "Energieverbrauch",
+            "value": 2300.0,
+            "unit": "kWh/t",
+            "material": 14,
+            "eco_score": "0.070",
+            "created_at": "2022-01-16T14:24:22.479Z",
+            "updated_at": "2022-01-29T13:20:47.474Z"
+        }
+    },
+    {
+        "model": "materials.sustainabilityproperty",
+        "pk": 56,
+        "fields": {
+            "property_name": "Recyclingfõhigkeit",
+            "value": 50.0,
+            "unit": "%",
+            "material": 14,
+            "eco_score": "2.500",
+            "created_at": "2022-01-16T14:24:22.565Z",
+            "updated_at": "2022-01-29T13:20:47.642Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 6,
+        "fields": {
+            "name": "Holzplatte aus Fichte",
+            "description": "Fichtenholzplatte",
+            "material": 14,
+            "depth": 7.0,
+            "length": 1500.0,
+            "width": 2000.0,
+            "price": 50.0,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-16T14:26:41.475Z",
+            "updated_at": "2022-01-30T14:41:12.631Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 7,
+        "fields": {
+            "name": "Holzplatte aus Eiche",
+            "description": "Eichenholzplatte",
+            "material": 13,
+            "depth": 20.0,
+            "length": 2000.0,
+            "width": 2500.0,
+            "price": 50.0,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-16T14:27:08.713Z",
+            "updated_at": "2022-01-30T14:41:30.216Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 8,
+        "fields": {
+            "name": "Platte aus PLA",
+            "description": "Platte aus Polylactide Kunststoff",
+            "material": 12,
+            "depth": 9.0,
+            "length": 1500.0,
+            "width": 1500.0,
+            "price": 12.0,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-16T14:27:58.890Z",
+            "updated_at": "2022-01-30T14:41:53.647Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 9,
+        "fields": {
+            "name": "Platte aus PET",
+            "description": "Platte aus PET Kunsstoff",
+            "material": 11,
+            "depth": 5.0,
+            "length": 1500.0,
+            "width": 1500.0,
+            "price": 60.0,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-16T14:28:28.550Z",
+            "updated_at": "2022-01-30T14:42:09.870Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 10,
+        "fields": {
+            "name": "Platte aus PVC",
+            "description": "Platte aus PVC Kunsstoff",
+            "material": 10,
+            "depth": 7.0,
+            "length": 1500.0,
+            "width": 1500.0,
+            "price": 12.0,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-16T14:28:56.458Z",
+            "updated_at": "2022-01-30T14:42:25.030Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 11,
+        "fields": {
+            "name": "Kupferplatte",
+            "description": "Platte aus Jupfer",
+            "material": 9,
+            "depth": 5.0,
+            "length": 500.0,
+            "width": 500.0,
+            "price": 444.0,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-16T14:29:21.722Z",
+            "updated_at": "2022-01-30T14:42:41.851Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 12,
+        "fields": {
+            "name": "Titanplatte",
+            "description": "Platte aus Titan",
+            "material": 8,
+            "depth": 9.0,
+            "length": 2000.0,
+            "width": 2000.0,
+            "price": 1000.0,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-16T14:29:41.612Z",
+            "updated_at": "2022-01-30T14:42:57.141Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 13,
+        "fields": {
+            "name": "Stahlplatte",
+            "description": "Platte aus Stahl",
+            "material": 6,
+            "depth": 7.0,
+            "length": 1500.0,
+            "width": 1500.0,
+            "price": 500.0,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-16T14:30:13.250Z",
+            "updated_at": "2022-01-30T14:43:19.187Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 14,
+        "fields": {
+            "name": "Platte aus Edelstahl",
+            "description": "Platte aus Edelstahl",
+            "material": 5,
+            "depth": 7.0,
+            "length": 1500.0,
+            "width": 1500.0,
+            "price": 560.0,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-16T14:30:38.607Z",
+            "updated_at": "2022-01-30T14:43:27.859Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 15,
+        "fields": {
+            "name": "Dummy Artikel Dummy Material",
+            "description": "Dummy Artikel aus Dummy Material",
+            "material": 4,
+            "depth": 5.0,
+            "length": 1500.0,
+            "width": 1500.0,
+            "price": 123.0,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-16T14:31:18.955Z",
+            "updated_at": "2022-01-30T14:43:38.076Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 16,
+        "fields": {
+            "name": "Edelstahl Platte",
+            "description": "Platte aus hochwertigem Edelstahl",
+            "material": 5,
+            "depth": 5.0,
+            "length": 500.0,
+            "width": 500.0,
+            "price": 1.77,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:07:54.483Z",
+            "updated_at": "2022-01-29T12:07:54.483Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 17,
+        "fields": {
+            "name": "Edelstahl Platte",
+            "description": "Platte aus hochwertigem Edelstahl",
+            "material": 5,
+            "depth": 5.0,
+            "length": 1000.0,
+            "width": 1000.0,
+            "price": 3.54,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:08:27.281Z",
+            "updated_at": "2022-01-29T12:08:27.281Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 18,
+        "fields": {
+            "name": "Edelstahl Platte",
+            "description": "Platte aus hochwertigem Edelstahl",
+            "material": 5,
+            "depth": 5.0,
+            "length": 2000.0,
+            "width": 1000.0,
+            "price": 7.08,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:08:45.736Z",
+            "updated_at": "2022-01-29T12:08:45.736Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 19,
+        "fields": {
+            "name": "Edelstahl Platte",
+            "description": "Platte aus hochwertigem Edelstahl",
+            "material": 5,
+            "depth": 7.0,
+            "length": 500.0,
+            "width": 500.0,
+            "price": 2.48,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:09:08.008Z",
+            "updated_at": "2022-01-29T12:09:08.008Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 20,
+        "fields": {
+            "name": "Edelstahl Platte",
+            "description": "Platte aus hochwertigem Edelstahl",
+            "material": 5,
+            "depth": 7.0,
+            "length": 1000.0,
+            "width": 1000.0,
+            "price": 4.96,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:09:36.939Z",
+            "updated_at": "2022-01-29T12:09:36.939Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 21,
+        "fields": {
+            "name": "Edelstahl Platte",
+            "description": "Platte aus hochwertigem Edelstahl",
+            "material": 5,
+            "depth": 7.0,
+            "length": 2000.0,
+            "width": 1000.0,
+            "price": 9.91,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:10:00.272Z",
+            "updated_at": "2022-01-29T12:10:00.272Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 22,
+        "fields": {
+            "name": "Edelstahl Platte",
+            "description": "Platte aus hochwertigem Edelstahl",
+            "material": 5,
+            "depth": 9.0,
+            "length": 500.0,
+            "width": 500.0,
+            "price": 3.19,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:10:18.628Z",
+            "updated_at": "2022-01-29T12:10:18.628Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 23,
+        "fields": {
+            "name": "Edelstahl Platte",
+            "description": "Platte aus hochwertigem Edelstahl",
+            "material": 5,
+            "depth": 9.0,
+            "length": 100.0,
+            "width": 100.0,
+            "price": 6.37,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:10:35.631Z",
+            "updated_at": "2022-01-29T12:10:35.631Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 24,
+        "fields": {
+            "name": "Edelstahl Platte",
+            "description": "Platte aus hochwertigem Edelstahl",
+            "material": 5,
+            "depth": 9.0,
+            "length": 2000.0,
+            "width": 1000.0,
+            "price": 12.74,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:10:59.533Z",
+            "updated_at": "2022-01-29T12:10:59.533Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 25,
+        "fields": {
+            "name": "Edelstahl Platte",
+            "description": "Platte aus hochwertigem Edelstahl",
+            "material": 5,
+            "depth": 15.0,
+            "length": 1000.0,
+            "width": 1000.0,
+            "price": 5.31,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:11:26.134Z",
+            "updated_at": "2022-01-29T12:11:26.134Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 26,
+        "fields": {
+            "name": "Stahl Platte",
+            "description": "Platte aus hochwertigem Stahl",
+            "material": 6,
+            "depth": 5.0,
+            "length": 500.0,
+            "width": 500.0,
+            "price": 0.28,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:11:59.333Z",
+            "updated_at": "2022-01-29T12:11:59.333Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 27,
+        "fields": {
+            "name": "Stahl Platte",
+            "description": "Platte aus hochwertigem Stahl",
+            "material": 6,
+            "depth": 5.0,
+            "length": 1000.0,
+            "width": 1000.0,
+            "price": 1.12,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:12:56.178Z",
+            "updated_at": "2022-01-29T12:12:56.179Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 28,
+        "fields": {
+            "name": "Stahl Platte",
+            "description": "Platte aus hochwertigem Stahl",
+            "material": 6,
+            "depth": 5.0,
+            "length": 2000.0,
+            "width": 1000.0,
+            "price": 1.12,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:13:11.091Z",
+            "updated_at": "2022-01-29T12:13:11.091Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 29,
+        "fields": {
+            "name": "Stahl Platte",
+            "description": "Platte aus hochwertigem Stahl",
+            "material": 6,
+            "depth": 7.0,
+            "length": 500.0,
+            "width": 500.0,
+            "price": 0.39,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:13:27.093Z",
+            "updated_at": "2022-01-29T12:13:27.093Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 30,
+        "fields": {
+            "name": "Stahl Platte",
+            "description": "Platte aus hochwertigem Stahl",
+            "material": 6,
+            "depth": 7.0,
+            "length": 1000.0,
+            "width": 1000.0,
+            "price": 0.78,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:13:43.932Z",
+            "updated_at": "2022-01-29T12:13:43.932Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 31,
+        "fields": {
+            "name": "Stahl Platte",
+            "description": "Platte aus hochwertigem Stahl",
+            "material": 6,
+            "depth": 7.0,
+            "length": 2000.0,
+            "width": 1000.0,
+            "price": 1.57,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:13:57.581Z",
+            "updated_at": "2022-01-29T12:13:57.581Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 32,
+        "fields": {
+            "name": "Stahl Platte",
+            "description": "Platte aus hochwertigem Stahl",
+            "material": 6,
+            "depth": 9.0,
+            "length": 500.0,
+            "width": 500.0,
+            "price": 0.5,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:14:14.805Z",
+            "updated_at": "2022-01-29T12:14:14.806Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 33,
+        "fields": {
+            "name": "Stahl Platte",
+            "description": "Platte aus hochwertigem Stahl",
+            "material": 6,
+            "depth": 9.0,
+            "length": 1000.0,
+            "width": 1000.0,
+            "price": 1.01,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:14:29.968Z",
+            "updated_at": "2022-01-29T12:14:29.968Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 34,
+        "fields": {
+            "name": "Stahl Platte",
+            "description": "Platte aus hochwertigem Stahl",
+            "material": 6,
+            "depth": 9.0,
+            "length": 2000.0,
+            "width": 1000.0,
+            "price": 2.02,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:14:47.943Z",
+            "updated_at": "2022-01-29T12:14:47.943Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 35,
+        "fields": {
+            "name": "Stahl Platte",
+            "description": "Platte aus hochwertigem Stahl",
+            "material": 6,
+            "depth": 15.0,
+            "length": 1000.0,
+            "width": 1000.0,
+            "price": 0.84,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:15:07.905Z",
+            "updated_at": "2022-01-29T12:15:07.905Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 36,
+        "fields": {
+            "name": "Aluminium Platte",
+            "description": "Platte aus hochwertigem Aluminium",
+            "material": 7,
+            "depth": 5.0,
+            "length": 500.0,
+            "width": 500.0,
+            "price": 2.04,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:15:28.778Z",
+            "updated_at": "2022-01-29T12:15:28.778Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 37,
+        "fields": {
+            "name": "Aluminium Platte",
+            "description": "Platte aus hochwertigem Aluminium",
+            "material": 7,
+            "depth": 5.0,
+            "length": 1000.0,
+            "width": 1000.0,
+            "price": 4.08,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:15:54.036Z",
+            "updated_at": "2022-01-29T12:15:54.036Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 38,
+        "fields": {
+            "name": "Aluminium Platte",
+            "description": "Platte aus hochwertigem Aluminium",
+            "material": 7,
+            "depth": 5.0,
+            "length": 2000.0,
+            "width": 1000.0,
+            "price": 8.16,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:16:09.714Z",
+            "updated_at": "2022-01-29T12:16:09.715Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 39,
+        "fields": {
+            "name": "Aluminium Platte",
+            "description": "Platte aus hochwertigem Aluminium",
+            "material": 7,
+            "depth": 7.0,
+            "length": 500.0,
+            "width": 500.0,
+            "price": 2.86,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:16:25.223Z",
+            "updated_at": "2022-01-29T12:16:25.223Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 40,
+        "fields": {
+            "name": "Aluminium Platte",
+            "description": "Platte aus hochwertigem Aluminium",
+            "material": 7,
+            "depth": 7.0,
+            "length": 1000.0,
+            "width": 1000.0,
+            "price": 5.71,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:16:40.042Z",
+            "updated_at": "2022-01-29T12:16:40.042Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 41,
+        "fields": {
+            "name": "Aluminium Platte",
+            "description": "Platte aus hochwertigem Aluminium",
+            "material": 7,
+            "depth": 7.0,
+            "length": 2000.0,
+            "width": 1000.0,
+            "price": 11.42,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:16:54.166Z",
+            "updated_at": "2022-01-29T12:16:54.166Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 42,
+        "fields": {
+            "name": "Aluminium Platte",
+            "description": "Platte aus hochwertigem Aluminium",
+            "material": 7,
+            "depth": 9.0,
+            "length": 500.0,
+            "width": 500.0,
+            "price": 3.67,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:17:10.724Z",
+            "updated_at": "2022-01-29T12:17:10.724Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 43,
+        "fields": {
+            "name": "Aluminium Platte",
+            "description": "Platte aus hochwertigem Aluminium",
+            "material": 7,
+            "depth": 9.0,
+            "length": 1000.0,
+            "width": 1000.0,
+            "price": 7.34,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:17:27.667Z",
+            "updated_at": "2022-01-29T12:17:27.667Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 44,
+        "fields": {
+            "name": "Aluminium Platte",
+            "description": "Platte aus hochwertigem Aluminium",
+            "material": 7,
+            "depth": 9.0,
+            "length": 2000.0,
+            "width": 1000.0,
+            "price": 14.69,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:17:39.095Z",
+            "updated_at": "2022-01-29T12:17:51.254Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 45,
+        "fields": {
+            "name": "Aluminium Platte",
+            "description": "Platte aus hochwertigem Aluminium",
+            "material": 7,
+            "depth": 15.0,
+            "length": 1000.0,
+            "width": 1000.0,
+            "price": 6.12,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:18:10.129Z",
+            "updated_at": "2022-01-29T12:18:10.129Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 46,
+        "fields": {
+            "name": "Titan Platte",
+            "description": "Platte aus hochwertigem Titan",
+            "material": 8,
+            "depth": 5.0,
+            "length": 500.0,
+            "width": 500.0,
+            "price": 5.0,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:18:43.321Z",
+            "updated_at": "2022-01-29T12:18:43.321Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 47,
+        "fields": {
+            "name": "Titan Platte",
+            "description": "Platte aus hochwertigem Titan",
+            "material": 8,
+            "depth": 5.0,
+            "length": 1000.0,
+            "width": 1000.0,
+            "price": 10.0,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:18:59.266Z",
+            "updated_at": "2022-01-29T12:18:59.266Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 48,
+        "fields": {
+            "name": "Titan Platte",
+            "description": "Platte aus hochwertigem Titan",
+            "material": 8,
+            "depth": 5.0,
+            "length": 2000.0,
+            "width": 1000.0,
+            "price": 20.0,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:19:11.486Z",
+            "updated_at": "2022-01-29T12:19:11.486Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 49,
+        "fields": {
+            "name": "Titan Platte",
+            "description": "Platte aus hochwertigem Titan",
+            "material": 8,
+            "depth": 7.0,
+            "length": 500.0,
+            "width": 500.0,
+            "price": 7.0,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:19:24.425Z",
+            "updated_at": "2022-01-29T12:19:24.425Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 50,
+        "fields": {
+            "name": "Titan Platte",
+            "description": "Platte aus hochwertigem Titan",
+            "material": 8,
+            "depth": 7.0,
+            "length": 1000.0,
+            "width": 1000.0,
+            "price": 14.0,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:19:36.122Z",
+            "updated_at": "2022-01-29T12:19:36.122Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 51,
+        "fields": {
+            "name": "Titan Platte",
+            "description": "Platte aus hochwertigem Titan",
+            "material": 8,
+            "depth": 7.0,
+            "length": 2000.0,
+            "width": 1000.0,
+            "price": 28.0,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:19:53.138Z",
+            "updated_at": "2022-01-29T12:19:53.138Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 52,
+        "fields": {
+            "name": "Titan Platte",
+            "description": "Platte aus hochwertigem Titan",
+            "material": 8,
+            "depth": 9.0,
+            "length": 500.0,
+            "width": 500.0,
+            "price": 9.0,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:20:08.169Z",
+            "updated_at": "2022-01-29T12:20:08.169Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 53,
+        "fields": {
+            "name": "Titan Platte",
+            "description": "Platte aus hochwertigem Titan",
+            "material": 8,
+            "depth": 9.0,
+            "length": 1000.0,
+            "width": 1000.0,
+            "price": 18.0,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:20:21.940Z",
+            "updated_at": "2022-01-29T12:20:21.940Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 54,
+        "fields": {
+            "name": "Titan Platte",
+            "description": "Platte aus hochwertigem Titan",
+            "material": 8,
+            "depth": 9.0,
+            "length": 2000.0,
+            "width": 1000.0,
+            "price": 36.0,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:20:37.639Z",
+            "updated_at": "2022-01-29T12:20:37.639Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 55,
+        "fields": {
+            "name": "Titan Platte",
+            "description": "Platte aus hochwertigem Titan",
+            "material": 8,
+            "depth": 15.0,
+            "length": 1000.0,
+            "width": 1000.0,
+            "price": 15.0,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:20:54.286Z",
+            "updated_at": "2022-01-29T12:21:04.654Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 56,
+        "fields": {
+            "name": "Kupfer Platte",
+            "description": "Platte aus leitfõhigem Kupfer",
+            "material": 9,
+            "depth": 5.0,
+            "length": 500.0,
+            "width": 500.0,
+            "price": 7.66,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:21:28.779Z",
+            "updated_at": "2022-01-29T12:21:28.779Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 57,
+        "fields": {
+            "name": "Kupfer Platte",
+            "description": "Platte aus leitfõhigem Kupfer",
+            "material": 9,
+            "depth": 5.0,
+            "length": 1000.0,
+            "width": 1000.0,
+            "price": 15.32,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:21:42.750Z",
+            "updated_at": "2022-01-29T12:21:42.750Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 58,
+        "fields": {
+            "name": "Kupfer Platte",
+            "description": "Platte aus leitfõhigem Kupfer",
+            "material": 9,
+            "depth": 5.0,
+            "length": 2000.0,
+            "width": 1000.0,
+            "price": 30.64,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:21:58.249Z",
+            "updated_at": "2022-01-29T12:21:58.249Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 59,
+        "fields": {
+            "name": "Kupfer Platte",
+            "description": "Platte aus leitfõhigem Kupfer",
+            "material": 9,
+            "depth": 7.0,
+            "length": 500.0,
+            "width": 500.0,
+            "price": 10.72,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:22:11.925Z",
+            "updated_at": "2022-01-29T12:22:11.925Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 60,
+        "fields": {
+            "name": "Kupfer Platte",
+            "description": "Platte aus leitfõhigem Kupfer",
+            "material": 9,
+            "depth": 7.0,
+            "length": 1000.0,
+            "width": 1000.0,
+            "price": 21.45,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:22:27.133Z",
+            "updated_at": "2022-01-29T12:22:27.133Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 61,
+        "fields": {
+            "name": "Kupfer Platte",
+            "description": "Platte aus leitfõhigem Kupfer",
+            "material": 9,
+            "depth": 7.0,
+            "length": 2000.0,
+            "width": 1000.0,
+            "price": 42.9,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:22:41.792Z",
+            "updated_at": "2022-01-29T12:22:41.792Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 62,
+        "fields": {
+            "name": "Kupfer Platte",
+            "description": "Platte aus leitfõhigem Kupfer",
+            "material": 9,
+            "depth": 9.0,
+            "length": 500.0,
+            "width": 500.0,
+            "price": 13.79,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:22:56.335Z",
+            "updated_at": "2022-01-29T12:22:56.335Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 63,
+        "fields": {
+            "name": "Kupfer Platte",
+            "description": "Platte aus leitfõhigem Kupfer",
+            "material": 9,
+            "depth": 9.0,
+            "length": 1000.0,
+            "width": 1000.0,
+            "price": 27.57,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:23:10.553Z",
+            "updated_at": "2022-01-29T12:23:10.553Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 64,
+        "fields": {
+            "name": "Kupfer Platte",
+            "description": "Platte aus leitfõhigem Kupfer",
+            "material": 9,
+            "depth": 9.0,
+            "length": 2000.0,
+            "width": 1000.0,
+            "price": 55.15,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:23:23.821Z",
+            "updated_at": "2022-01-29T12:23:23.821Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 65,
+        "fields": {
+            "name": "Kupfer Platte",
+            "description": "Platte aus leitfõhigem Kupfer",
+            "material": 9,
+            "depth": 15.0,
+            "length": 1000.0,
+            "width": 1000.0,
+            "price": 22.95,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:23:45.025Z",
+            "updated_at": "2022-01-29T12:23:45.025Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 66,
+        "fields": {
+            "name": "PVC Platte",
+            "description": "Platte aus leichtem PVC",
+            "material": 10,
+            "depth": 5.0,
+            "length": 500.0,
+            "width": 500.0,
+            "price": 1.21,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:24:06.234Z",
+            "updated_at": "2022-01-29T12:24:06.234Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 67,
+        "fields": {
+            "name": "PVC Platte",
+            "description": "Platte aus leichtem PVC",
+            "material": 10,
+            "depth": 5.0,
+            "length": 1000.0,
+            "width": 1000.0,
+            "price": 2.48,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:24:22.645Z",
+            "updated_at": "2022-01-29T12:24:22.645Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 68,
+        "fields": {
+            "name": "PVC Platte",
+            "description": "Platte aus leichtem PVC",
+            "material": 10,
+            "depth": 5.0,
+            "length": 2000.0,
+            "width": 1000.0,
+            "price": 4.96,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:24:41.733Z",
+            "updated_at": "2022-01-29T12:24:41.733Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 69,
+        "fields": {
+            "name": "PVC Platte",
+            "description": "Platte aus leichtem PVC",
+            "material": 10,
+            "depth": 7.0,
+            "length": 500.0,
+            "width": 500.0,
+            "price": 1.74,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:24:59.519Z",
+            "updated_at": "2022-01-29T12:24:59.519Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 70,
+        "fields": {
+            "name": "PVC Platte",
+            "description": "Platte aus leichtem PVC",
+            "material": 10,
+            "depth": 7.0,
+            "length": 1000.0,
+            "width": 1000.0,
+            "price": 3.47,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:25:16.118Z",
+            "updated_at": "2022-01-29T12:25:16.118Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 71,
+        "fields": {
+            "name": "PVC Platte",
+            "description": "Platte aus leichtem PVC",
+            "material": 10,
+            "depth": 7.0,
+            "length": 2000.0,
+            "width": 1000.0,
+            "price": 6.94,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:25:32.146Z",
+            "updated_at": "2022-01-29T12:25:32.146Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 72,
+        "fields": {
+            "name": "PVC Platte",
+            "description": "Platte aus leichtem PVC",
+            "material": 10,
+            "depth": 9.0,
+            "length": 500.0,
+            "width": 500.0,
+            "price": 2.23,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:25:46.267Z",
+            "updated_at": "2022-01-29T12:25:46.267Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 73,
+        "fields": {
+            "name": "PVC Platte",
+            "description": "Platte aus leichtem PVC",
+            "material": 10,
+            "depth": 9.0,
+            "length": 1000.0,
+            "width": 1000.0,
+            "price": 4.46,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:26:05.377Z",
+            "updated_at": "2022-01-29T12:26:05.377Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 74,
+        "fields": {
+            "name": "PVC Platte",
+            "description": "Platte aus leichtem PVC",
+            "material": 10,
+            "depth": 9.0,
+            "length": 2000.0,
+            "width": 1000.0,
+            "price": 8.93,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:26:22.600Z",
+            "updated_at": "2022-01-29T12:26:22.601Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 75,
+        "fields": {
+            "name": "PVC Platte",
+            "description": "Platte aus leichtem PVC",
+            "material": 10,
+            "depth": 15.0,
+            "length": 1000.0,
+            "width": 1000.0,
+            "price": 3.72,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:26:42.668Z",
+            "updated_at": "2022-01-29T12:26:42.668Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 76,
+        "fields": {
+            "name": "PET Platte",
+            "description": "Platte aus wiederverwertetem PET",
+            "material": 11,
+            "depth": 5.0,
+            "length": 500.0,
+            "width": 500.0,
+            "price": 0.5,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:27:00.775Z",
+            "updated_at": "2022-01-29T12:27:00.775Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 77,
+        "fields": {
+            "name": "PET Platte",
+            "description": "Platte aus wiederverwertetem PET",
+            "material": 11,
+            "depth": 5.0,
+            "length": 1000.0,
+            "width": 1000.0,
+            "price": 1.0,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:27:12.907Z",
+            "updated_at": "2022-01-29T12:27:12.908Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 78,
+        "fields": {
+            "name": "PET Platte",
+            "description": "Platte aus wiederverwertetem PET",
+            "material": 11,
+            "depth": 5.0,
+            "length": 2000.0,
+            "width": 1000.0,
+            "price": 2.0,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:27:26.743Z",
+            "updated_at": "2022-01-29T12:27:26.743Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 79,
+        "fields": {
+            "name": "PET Platte",
+            "description": "Platte aus wiederverwertetem PET",
+            "material": 11,
+            "depth": 7.0,
+            "length": 500.0,
+            "width": 500.0,
+            "price": 0.7,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:27:46.160Z",
+            "updated_at": "2022-01-29T12:27:46.160Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 80,
+        "fields": {
+            "name": "PET Platte",
+            "description": "Platte aus wiederverwertetem PET",
+            "material": 11,
+            "depth": 7.0,
+            "length": 1000.0,
+            "width": 1000.0,
+            "price": 1.4,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:28:01.704Z",
+            "updated_at": "2022-01-29T12:28:08.882Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 81,
+        "fields": {
+            "name": "PET Platte",
+            "description": "Platte aus wiederverwertetem PET",
+            "material": 11,
+            "depth": 7.0,
+            "length": 2000.0,
+            "width": 1000.0,
+            "price": 2.8,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:28:25.131Z",
+            "updated_at": "2022-01-29T12:28:25.131Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 82,
+        "fields": {
+            "name": "PET Platte",
+            "description": "Platte aus wiederverwertetem PET",
+            "material": 11,
+            "depth": 9.0,
+            "length": 500.0,
+            "width": 500.0,
+            "price": 0.9,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:28:39.633Z",
+            "updated_at": "2022-01-29T12:28:39.633Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 83,
+        "fields": {
+            "name": "PET Platte",
+            "description": "Platte aus wiederverwertetem PET",
+            "material": 11,
+            "depth": 9.0,
+            "length": 1000.0,
+            "width": 1000.0,
+            "price": 1.8,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:28:52.515Z",
+            "updated_at": "2022-01-29T12:28:52.515Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 84,
+        "fields": {
+            "name": "PET Platte",
+            "description": "Platte aus wiederverwertetem PET",
+            "material": 11,
+            "depth": 9.0,
+            "length": 2000.0,
+            "width": 1000.0,
+            "price": 3.6,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:29:04.185Z",
+            "updated_at": "2022-01-29T12:29:04.185Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 85,
+        "fields": {
+            "name": "PET Platte",
+            "description": "Platte aus wiederverwertetem PET",
+            "material": 11,
+            "depth": 15.0,
+            "length": 1000.0,
+            "width": 1000.0,
+            "price": 1.5,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:29:17.546Z",
+            "updated_at": "2022-01-29T12:29:17.546Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 86,
+        "fields": {
+            "name": "PLA Platte",
+            "description": "Platte aus biologisch abbaubarem PLA",
+            "material": 12,
+            "depth": 5.0,
+            "length": 500.0,
+            "width": 500.0,
+            "price": 4.94,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:29:33.277Z",
+            "updated_at": "2022-01-29T12:29:39.863Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 87,
+        "fields": {
+            "name": "PLA Platte",
+            "description": "Platte aus biologisch abbaubarem PLA",
+            "material": 12,
+            "depth": 5.0,
+            "length": 1000.0,
+            "width": 1000.0,
+            "price": 9.88,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:29:54.938Z",
+            "updated_at": "2022-01-29T12:29:54.938Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 88,
+        "fields": {
+            "name": "PLA Platte",
+            "description": "Platte aus biologisch abbaubarem PLA",
+            "material": 12,
+            "depth": 5.0,
+            "length": 2000.0,
+            "width": 1000.0,
+            "price": 19.76,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:30:27.175Z",
+            "updated_at": "2022-01-29T12:30:27.175Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 89,
+        "fields": {
+            "name": "PLA Platte",
+            "description": "Platte aus biologisch abbaubarem PLA",
+            "material": 12,
+            "depth": 7.0,
+            "length": 500.0,
+            "width": 500.0,
+            "price": 6.92,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:30:44.987Z",
+            "updated_at": "2022-01-29T12:30:44.987Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 90,
+        "fields": {
+            "name": "PLA Platte",
+            "description": "Platte aus biologisch abbaubarem PLA",
+            "material": 12,
+            "depth": 7.0,
+            "length": 1000.0,
+            "width": 1000.0,
+            "price": 13.83,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:31:00.487Z",
+            "updated_at": "2022-01-29T12:31:00.487Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 91,
+        "fields": {
+            "name": "PLA Platte",
+            "description": "Platte aus biologisch abbaubarem PLA",
+            "material": 12,
+            "depth": 7.0,
+            "length": 2000.0,
+            "width": 1000.0,
+            "price": 27.66,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:31:20.425Z",
+            "updated_at": "2022-01-29T12:31:20.425Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 92,
+        "fields": {
+            "name": "PLA Platte",
+            "description": "Platte aus biologisch abbaubarem PLA",
+            "material": 12,
+            "depth": 9.0,
+            "length": 500.0,
+            "width": 500.0,
+            "price": 8.89,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:31:34.859Z",
+            "updated_at": "2022-01-29T12:31:34.859Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 93,
+        "fields": {
+            "name": "PLA Platte",
+            "description": "Platte aus biologisch abbaubarem PLA",
+            "material": 12,
+            "depth": 9.0,
+            "length": 1000.0,
+            "width": 1000.0,
+            "price": 17.78,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:31:50.153Z",
+            "updated_at": "2022-01-29T12:31:50.153Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 94,
+        "fields": {
+            "name": "PLA Platte",
+            "description": "Platte aus biologisch abbaubarem PLA",
+            "material": 12,
+            "depth": 9.0,
+            "length": 2000.0,
+            "width": 1000.0,
+            "price": 35.57,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:32:06.904Z",
+            "updated_at": "2022-01-29T12:32:06.904Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 95,
+        "fields": {
+            "name": "PLA Platte",
+            "description": "Platte aus biologisch abbaubarem PLA",
+            "material": 12,
+            "depth": 15.0,
+            "length": 1000.0,
+            "width": 1000.0,
+            "price": 14.82,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:32:25.472Z",
+            "updated_at": "2022-01-29T12:32:25.472Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 96,
+        "fields": {
+            "name": "Eichenholz Platte",
+            "description": "Platte aus umweltfreundlichem Eichenholz",
+            "material": 13,
+            "depth": 10.0,
+            "length": 500.0,
+            "width": 500.0,
+            "price": 10.0,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:36:45.030Z",
+            "updated_at": "2022-01-29T12:36:45.030Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 97,
+        "fields": {
+            "name": "Eichenholz Platte",
+            "description": "Platte aus umweltfreundlichem Eichenholz",
+            "material": 13,
+            "depth": 15.0,
+            "length": 1000.0,
+            "width": 1000.0,
+            "price": 30.0,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:36:58.816Z",
+            "updated_at": "2022-01-29T12:36:58.816Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 98,
+        "fields": {
+            "name": "Eichenholz Platte",
+            "description": "Platte aus umweltfreundlichem Eichenholz",
+            "material": 13,
+            "depth": 20.0,
+            "length": 2000.0,
+            "width": 1000.0,
+            "price": 80.0,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:37:13.338Z",
+            "updated_at": "2022-01-29T12:37:13.338Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 99,
+        "fields": {
+            "name": "Eichenholz Platte",
+            "description": "Platte aus umweltfreundlichem Eichenholz",
+            "material": 13,
+            "depth": 10.0,
+            "length": 500.0,
+            "width": 500.0,
+            "price": 10.0,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:37:27.989Z",
+            "updated_at": "2022-01-29T12:37:27.989Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 100,
+        "fields": {
+            "name": "Eichenholz Platte",
+            "description": "Platte aus umweltfreundlichem Eichenholz",
+            "material": 13,
+            "depth": 15.0,
+            "length": 1000.0,
+            "width": 1000.0,
+            "price": 30.0,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:37:45.025Z",
+            "updated_at": "2022-01-29T12:37:45.026Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 101,
+        "fields": {
+            "name": "Eichenholz Platte",
+            "description": "Platte aus umweltfreundlichem Eichenholz",
+            "material": 13,
+            "depth": 20.0,
+            "length": 2000.0,
+            "width": 1000.0,
+            "price": 80.0,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:38:00.754Z",
+            "updated_at": "2022-01-29T12:38:00.754Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 102,
+        "fields": {
+            "name": "Eichenholz Platte",
+            "description": "Platte aus umweltfreundlichem Eichenholz",
+            "material": 13,
+            "depth": 10.0,
+            "length": 500.0,
+            "width": 500.0,
+            "price": 10.0,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:38:15.126Z",
+            "updated_at": "2022-01-29T12:38:15.126Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 103,
+        "fields": {
+            "name": "Eichenholz Platte",
+            "description": "Platte aus umweltfreundlichem Eichenholz",
+            "material": 13,
+            "depth": 15.0,
+            "length": 1000.0,
+            "width": 1000.0,
+            "price": 30.0,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:38:28.953Z",
+            "updated_at": "2022-01-29T12:38:28.953Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 104,
+        "fields": {
+            "name": "Eichenholz Platte",
+            "description": "Platte aus umweltfreundlichem Eichenholz",
+            "material": 13,
+            "depth": 20.0,
+            "length": 2000.0,
+            "width": 1000.0,
+            "price": 90.0,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:38:50.909Z",
+            "updated_at": "2022-01-29T12:38:50.909Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 105,
+        "fields": {
+            "name": "Eichenholz Platte",
+            "description": "Platte aus umweltfreundlichem Eichenholz",
+            "material": 13,
+            "depth": 35.0,
+            "length": 1000.0,
+            "width": 1000.0,
+            "price": 35.0,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:39:07.904Z",
+            "updated_at": "2022-01-29T12:39:07.904Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 106,
+        "fields": {
+            "name": "Fichtenholz Platte",
+            "description": "Platte aus umweltfreundlichem Fichtenholz",
+            "material": 14,
+            "depth": 10.0,
+            "length": 500.0,
+            "width": 500.0,
+            "price": 15.0,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:39:36.183Z",
+            "updated_at": "2022-01-29T12:39:36.183Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 107,
+        "fields": {
+            "name": "Fichtenholz Platte",
+            "description": "Platte aus umweltfreundlichem Fichtenholz",
+            "material": 14,
+            "depth": 15.0,
+            "length": 1000.0,
+            "width": 1000.0,
+            "price": 45.0,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:39:50.706Z",
+            "updated_at": "2022-01-29T12:39:50.706Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 108,
+        "fields": {
+            "name": "Fichtenholz Platte",
+            "description": "Platte aus umweltfreundlichem Fichtenholz",
+            "material": 14,
+            "depth": 20.0,
+            "length": 2000.0,
+            "width": 1000.0,
+            "price": 120.0,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:40:03.130Z",
+            "updated_at": "2022-01-29T12:40:03.130Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 109,
+        "fields": {
+            "name": "Fichtenholz Platte",
+            "description": "Platte aus umweltfreundlichem Fichtenholz",
+            "material": 14,
+            "depth": 10.0,
+            "length": 500.0,
+            "width": 500.0,
+            "price": 15.0,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:40:17.141Z",
+            "updated_at": "2022-01-29T12:40:17.141Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 110,
+        "fields": {
+            "name": "Fichtenholz Platte",
+            "description": "Platte aus umweltfreundlichem Fichtenholz",
+            "material": 14,
+            "depth": 15.0,
+            "length": 1000.0,
+            "width": 1000.0,
+            "price": 45.0,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:40:34.751Z",
+            "updated_at": "2022-01-29T12:40:34.751Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 111,
+        "fields": {
+            "name": "Fichtenholz Platte",
+            "description": "Platte aus umweltfreundlichem Fichtenholz",
+            "material": 14,
+            "depth": 20.0,
+            "length": 2000.0,
+            "width": 1000.0,
+            "price": 120.0,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:40:47.907Z",
+            "updated_at": "2022-01-29T12:40:47.907Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 112,
+        "fields": {
+            "name": "Fichtenholz Platte",
+            "description": "Platte aus umweltfreundlichem Fichtenholz",
+            "material": 14,
+            "depth": 10.0,
+            "length": 500.0,
+            "width": 500.0,
+            "price": 15.0,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:41:02.131Z",
+            "updated_at": "2022-01-29T12:41:02.131Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 113,
+        "fields": {
+            "name": "Fichtenholz Platte",
+            "description": "Platte aus umweltfreundlichem Fichtenholz",
+            "material": 14,
+            "depth": 15.0,
+            "length": 1000.0,
+            "width": 1000.0,
+            "price": 45.0,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:41:16.950Z",
+            "updated_at": "2022-01-29T12:41:16.950Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 114,
+        "fields": {
+            "name": "Fichtenholz Platte",
+            "description": "Platte aus umweltfreundlichem Fichtenholz",
+            "material": 14,
+            "depth": 20.0,
+            "length": 2000.0,
+            "width": 1000.0,
+            "price": 120.0,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:41:28.419Z",
+            "updated_at": "2022-01-29T12:41:28.419Z"
+        }
+    },
+    {
+        "model": "materials.article",
+        "pk": 115,
+        "fields": {
+            "name": "Fichtenholz Platte",
+            "description": "Platte aus umweltfreundlichem Fichtenholz",
+            "material": 14,
+            "depth": 35.0,
+            "length": 1000.0,
+            "width": 1000.0,
+            "price": 52.5,
+            "replaceability_index": 0,
+            "quantity_in_stock": 0,
+            "in_stock": false,
+            "created_at": "2022-01-29T12:41:43.304Z",
+            "updated_at": "2022-01-29T12:41:43.305Z"
+        }
+    },
+    {
+        "model": "users.customuser",
+        "pk": 1,
+        "fields": {
+            "password": "pbkdf2_sha256$260000$JejoT4l49a2iDHtYI8mWSM$hGCaYzuJOXnSPvVEmJpXkmLkmDY/753SBVCZLzfzVY8=",
+            "last_login": "2022-01-31T12:20:54.377Z",
+            "is_superuser": true,
+            "username": "admin",
+            "first_name": "",
+            "last_name": "",
+            "email": "",
+            "is_staff": true,
+            "is_active": true,
+            "date_joined": "2022-01-11T12:06:50.506Z",
+            "groups": [],
+            "user_permissions": []
+        }
+    },
+    {
+        "model": "users.customuser",
+        "pk": 2,
+        "fields": {
+            "password": "pbkdf2_sha256$260000$haiA16ihWQlvlySnLSZFnS$fC+B7cyBz7tSJqHoGxezhlPopVkFCs8bsU2+IuO2Isw=",
+            "last_login": "2022-01-31T11:49:52.748Z",
+            "is_superuser": false,
+            "username": "TestName",
+            "first_name": "",
+            "last_name": "",
+            "email": "test@test.de",
+            "is_staff": false,
+            "is_active": true,
+            "date_joined": "2022-01-31T11:49:52.499Z",
+            "groups": [],
+            "user_permissions": []
+        }
+    }
+]
