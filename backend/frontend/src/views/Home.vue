@@ -3,7 +3,7 @@
     <!-- Masthead-->
     <header class="masthead">
       <div class="container">
-        <div class="masthead-heading text-uppercase">re:solve - die nachhaltige Lösung für Ihgr Unternehmen</div>
+        <div class="masthead-heading text-uppercase">re:solve - die nachhaltige Lösung für Ihr Unternehmen</div>
 <!--        <div class="masthead-subheading">Welcome To Our Studio!</div>-->
         <router-link class="btn btn-primary btn-xl text-uppercase" :to="{ name: 'compareMaterial' }"
           >Materialien vergleichen</router-link
