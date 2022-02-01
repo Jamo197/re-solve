@@ -43,7 +43,7 @@ def calculate_ecological_index(instance):
 
     return (co2_consumption + recyclability + energy_consumption + water_consumption) / 4
 
-@receiver(pre_save, sender=SustainabilityProperty)
+# @receiver(pre_save, sender=SustainabilityProperty)
 def calc_eco_score(sender, instance, *args, **kwargs):
     if instance:
         # Berechnung CO2 Verbrauch
@@ -60,7 +60,7 @@ def calc_eco_score(sender, instance, *args, **kwargs):
             instance.eco_score = (100 / get_max_water_consumption(instance.value) * instance.value) * 0.05
 
 
-@receiver(post_save, sender=SustainabilityProperty)
+# @receiver(post_save, sender=SustainabilityProperty)
 def calc_materials_eco_index(sender, instance, *args, **kwargs):
     materials = Material.objects.all()
 
